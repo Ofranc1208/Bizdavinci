@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-23",
+  "method": "Firecrawl URL map; discovered, not necessarily reviewed; map limit 300",
+  "links": [
+    {
+      "url": "https://www.siteflip.app/terms",
+      "title": "Terms of Service - SiteFlip",
+      "description": "SiteFlip provides a productized website redesign service, including: A free redesign preview of your existing website — no payment required Full website ..."
+    },
+    {
+      "url": "https://www.siteflip.app/legal",
+      "title": "Legal Notice - SiteFlip",
+      "description": "Legal notice and provider identification for SiteFlip. Contact Email: siteflip@kairon.co Phone: +49 1578 2363585"
+    },
+    {
+      "url": "https://www.siteflip.app/privacy",
+      "title": "Privacy Policy - SiteFlip",
+      "description": "We do not collect your name, email address, or any other personal information unless you voluntarily provide it."
+    }
+  ]
+}

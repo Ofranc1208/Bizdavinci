@@ -1,0 +1,182 @@
+[
+  {
+    "width": 390,
+    "route": "/",
+    "result": "{\"width\":375,\"scrollWidth\":375,\"height\":5810,\"brokenImages\":[]}"
+  },
+  {
+    "width": 390,
+    "route": "/audit",
+    "result": "{\"width\":375,\"scrollWidth\":375,\"height\":4320,\"brokenImages\":[]}"
+  },
+  {
+    "width": 390,
+    "route": "/preview",
+    "result": "{\"width\":375,\"scrollWidth\":375,\"height\":2358,\"brokenImages\":[]}"
+  },
+  {
+    "width": 390,
+    "route": "/quote",
+    "result": "{\"width\":375,\"scrollWidth\":375,\"height\":3807,\"brokenImages\":[]}"
+  },
+  {
+    "width": 390,
+    "route": "/pricing",
+    "result": "{\"width\":375,\"scrollWidth\":375,\"height\":4201,\"brokenImages\":[]}"
+  },
+  {
+    "width": 390,
+    "route": "/examples",
+    "result": "{\"width\":375,\"scrollWidth\":375,\"height\":4269,\"brokenImages\":[]}"
+  },
+  {
+    "width": 390,
+    "route": "/about",
+    "result": "{\"width\":375,\"scrollWidth\":375,\"height\":2966,\"brokenImages\":[]}"
+  },
+  {
+    "width": 390,
+    "route": "/contact",
+    "result": "{\"width\":375,\"scrollWidth\":375,\"height\":2514,\"brokenImages\":[]}"
+  },
+  {
+    "width": 390,
+    "route": "/how-it-works",
+    "result": "{\"width\":375,\"scrollWidth\":375,\"height\":2013,\"brokenImages\":[]}"
+  },
+  {
+    "width": 1440,
+    "route": "/",
+    "result": "{\"width\":1425,\"scrollWidth\":1425,\"height\":3940,\"brokenImages\":[]}"
+  },
+  {
+    "width": 1440,
+    "route": "/audit",
+    "result": "{\"width\":1425,\"scrollWidth\":1425,\"height\":2239,\"brokenImages\":[]}"
+  },
+  {
+    "width": 1440,
+    "route": "/preview",
+    "result": "{\"width\":1425,\"scrollWidth\":1425,\"height\":2018,\"brokenImages\":[]}"
+  },
+  {
+    "width": 1440,
+    "route": "/quote",
+    "result": "{\"width\":1425,\"scrollWidth\":1425,\"height\":2062,\"brokenImages\":[]}"
+  },
+  {
+    "width": 1440,
+    "route": "/pricing",
+    "result": "{\"width\":1425,\"scrollWidth\":1425,\"height\":2097,\"brokenImages\":[]}"
+  },
+  {
+    "width": 1440,
+    "route": "/examples",
+    "result": "{\"width\":1425,\"scrollWidth\":1425,\"height\":3640,\"brokenImages\":[]}"
+  },
+  {
+    "width": 1440,
+    "route": "/about",
+    "result": "{\"width\":1425,\"scrollWidth\":1425,\"height\":2080,\"brokenImages\":[]}"
+  },
+  {
+    "width": 1440,
+    "route": "/contact",
+    "result": "{\"width\":1425,\"scrollWidth\":1425,\"height\":1528,\"brokenImages\":[]}"
+  },
+  {
+    "width": 1440,
+    "route": "/how-it-works",
+    "result": "{\"width\":1425,\"scrollWidth\":1425,\"height\":1557,\"brokenImages\":[]}"
+  },
+  {
+    "width": 1024,
+    "route": "/",
+    "result": "{\"width\":1009,\"scrollWidth\":1009,\"height\":3750,\"brokenImages\":[]}"
+  },
+  {
+    "width": 1024,
+    "route": "/audit",
+    "result": "{\"width\":1009,\"scrollWidth\":1009,\"height\":2353,\"brokenImages\":[]}"
+  },
+  {
+    "width": 1024,
+    "route": "/preview",
+    "result": "{\"width\":1009,\"scrollWidth\":1009,\"height\":1826,\"brokenImages\":[]}"
+  },
+  {
+    "width": 1024,
+    "route": "/quote",
+    "result": "{\"width\":1009,\"scrollWidth\":1009,\"height\":2052,\"brokenImages\":[]}"
+  },
+  {
+    "width": 1024,
+    "route": "/pricing",
+    "result": "{\"width\":1009,\"scrollWidth\":1009,\"height\":2180,\"brokenImages\":[]}"
+  },
+  {
+    "width": 1024,
+    "route": "/examples",
+    "result": "{\"width\":1009,\"scrollWidth\":1009,\"height\":3290,\"brokenImages\":[]}"
+  },
+  {
+    "width": 1024,
+    "route": "/about",
+    "result": "{\"width\":1009,\"scrollWidth\":1009,\"height\":1984,\"brokenImages\":[]}"
+  },
+  {
+    "width": 1024,
+    "route": "/contact",
+    "result": "{\"width\":1009,\"scrollWidth\":1009,\"height\":1567,\"brokenImages\":[]}"
+  },
+  {
+    "width": 1024,
+    "route": "/how-it-works",
+    "result": "{\"width\":1009,\"scrollWidth\":1009,\"height\":1557,\"brokenImages\":[]}"
+  },
+  {
+    "width": 360,
+    "route": "/",
+    "result": "{\"width\":345,\"scrollWidth\":345,\"height\":5828,\"brokenImages\":[]}"
+  },
+  {
+    "width": 360,
+    "route": "/audit",
+    "result": "{\"width\":345,\"scrollWidth\":345,\"height\":4494,\"brokenImages\":[]}"
+  },
+  {
+    "width": 360,
+    "route": "/preview",
+    "result": "{\"width\":345,\"scrollWidth\":345,\"height\":2384,\"brokenImages\":[]}"
+  },
+  {
+    "width": 360,
+    "route": "/quote",
+    "result": "{\"width\":345,\"scrollWidth\":345,\"height\":3978,\"brokenImages\":[]}"
+  },
+  {
+    "width": 360,
+    "route": "/pricing",
+    "result": "{\"width\":345,\"scrollWidth\":345,\"height\":4249,\"brokenImages\":[]}"
+  },
+  {
+    "width": 360,
+    "route": "/examples",
+    "result": "{\"width\":345,\"scrollWidth\":345,\"height\":4304,\"brokenImages\":[]}"
+  },
+  {
+    "width": 360,
+    "route": "/about",
+    "result": "{\"width\":345,\"scrollWidth\":345,\"height\":3034,\"brokenImages\":[]}"
+  },
+  {
+    "width": 360,
+    "route": "/contact",
+    "result": "{\"width\":345,\"scrollWidth\":345,\"height\":2537,\"brokenImages\":[]}"
+  },
+  {
+    "width": 360,
+    "route": "/how-it-works",
+    "result": "{\"width\":345,\"scrollWidth\":345,\"height\":2103,\"brokenImages\":[]}"
+  }
+]

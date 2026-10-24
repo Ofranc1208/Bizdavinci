@@ -1,0 +1,20 @@
+{
+  "name": "biz-da-vinci-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Local frontend with optional homepage capture API for the hero slider.",
+  "scripts": {
+    "dev": "node serve.mjs",
+    "start": "node serve.mjs",
+    "test": "node tests/run.mjs",
+    "check": "node --check app.js && node --check components.js && node --check data.js && node --check model.js && node --check serve.mjs && node --check server/safe-url.mjs && node --check server/capture-playwright.mjs && node --check server/jobs.mjs && node --check server/api.mjs && node --check professions.js && node --check pages.js && node --check validate-content.mjs && node --check scripts/inventory.mjs && node --check tests/run.mjs && node --check tests/model.test.mjs && node --check tests/professions.test.mjs && node --check tests/content-integrity.test.mjs && node --check tests/serve.test.mjs && node --check tests/safe-url.test.mjs && node --check tests/capture-api.test.mjs && node --check tests/escape-render.test.mjs && node --check tests/pricing-freeze.test.mjs && node --check tests/url-syntax.test.mjs && node --check tests/inventory.test.mjs && node --check tests/service-paths.test.mjs",
+    "inventory": "node scripts/inventory.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "playwright": "^1.51.0"
+  }
+}

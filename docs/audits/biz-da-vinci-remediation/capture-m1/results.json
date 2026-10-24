@@ -1,0 +1,56 @@
+{
+  "origin": "http://127.0.0.1:55849",
+  "allowlist": [
+    "example.com",
+    "www.example.com",
+    "iana.org",
+    "www.iana.org",
+    "wikipedia.org",
+    "www.wikipedia.org"
+  ],
+  "publicSites": [
+    {
+      "name": "example.com",
+      "url": "https://example.com",
+      "ok": true,
+      "status": "ready",
+      "ms": 3716,
+      "screenshotUrl": "/api/captures/c401c9cb-e7d3-4c0a-bfdd-73c6cfe7972f.png"
+    },
+    {
+      "name": "www.example.com",
+      "url": "https://www.example.com",
+      "ok": true,
+      "status": "ready",
+      "ms": 2059,
+      "screenshotUrl": "/api/captures/459cc083-db69-4d08-9892-771885fb08ad.png"
+    },
+    {
+      "name": "iana.org",
+      "url": "https://iana.org",
+      "ok": true,
+      "status": "ready",
+      "ms": 3578,
+      "screenshotUrl": "/api/captures/390a8a0d-2ce4-45d6-aa41-643a8b903797.png"
+    }
+  ],
+  "privateRejected": {
+    "name": "private-ip",
+    "url": "http://127.0.0.1",
+    "ok": false,
+    "status": "failed",
+    "errorCode": "unsupported_url",
+    "message": "That website address is not supported for capture.",
+    "ms": 5
+  },
+  "unreachable": {
+    "name": "unreachable-host",
+    "url": "https://this-host-should-not-exist-1792877588916.example.com",
+    "ok": false,
+    "status": "failed",
+    "errorCode": "unreachable",
+    "message": "We could not reach that website.",
+    "ms": 511
+  },
+  "at": "2026-10-24T21:32:59.553Z"
+}

@@ -1,0 +1,61 @@
+[
+  {
+    "afterHero": "explore",
+    "broken": 0,
+    "buttons": [
+      {
+        "disabled": true,
+        "y": 817.625
+      },
+      {
+        "disabled": true,
+        "y": 817.625
+      },
+      {
+        "disabled": true,
+        "y": 817.625
+      },
+      {
+        "disabled": true,
+        "y": 817.625
+      }
+    ],
+    "cards": [
+      {
+        "h": 507.5625,
+        "y": 386.0625
+      },
+      {
+        "h": 507.5625,
+        "y": 386.0625
+      },
+      {
+        "h": 507.5625,
+        "y": 386.0625
+      },
+      {
+        "h": 507.5625,
+        "y": 386.0625
+      }
+    ],
+    "overflow": false,
+    "sectionCount": 1,
+    "width": 1158
+  },
+  {
+    "columns": "334px 334px",
+    "overflow": false,
+    "width": 810
+  },
+  {
+    "broken": 0,
+    "columns": "316px",
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "columns": "284px",
+    "overflow": false,
+    "width": 350
+  }
+]

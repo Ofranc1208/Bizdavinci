@@ -1,0 +1,11 @@
+.env.local
+**/.env.local
+**/.env
+frontend/node_modules/
+**/node_modules/
+frontend/.captures/
+**/.next/
+**/.turbo/
+*.log
+.cursor/
+

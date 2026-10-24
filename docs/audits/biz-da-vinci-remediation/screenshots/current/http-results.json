@@ -1,0 +1,194 @@
+[
+  {
+    "route": "/",
+    "status": 200
+  },
+  {
+    "route": "/about",
+    "status": 200
+  },
+  {
+    "route": "/audit",
+    "status": 200
+  },
+  {
+    "route": "/contact",
+    "status": 200
+  },
+  {
+    "route": "/examples",
+    "status": 200
+  },
+  {
+    "route": "/faq",
+    "status": 200
+  },
+  {
+    "route": "/how-it-works",
+    "status": 200
+  },
+  {
+    "route": "/industries",
+    "status": 200
+  },
+  {
+    "route": "/industries/accountants",
+    "status": 200
+  },
+  {
+    "route": "/industries/architects",
+    "status": 200
+  },
+  {
+    "route": "/industries/attorneys",
+    "status": 200
+  },
+  {
+    "route": "/industries/auto-repair",
+    "status": 200
+  },
+  {
+    "route": "/industries/barbers",
+    "status": 200
+  },
+  {
+    "route": "/industries/bookkeepers",
+    "status": 200
+  },
+  {
+    "route": "/industries/cafes",
+    "status": 200
+  },
+  {
+    "route": "/industries/chiropractors",
+    "status": 200
+  },
+  {
+    "route": "/industries/cleaning-services",
+    "status": 200
+  },
+  {
+    "route": "/industries/computer-repair",
+    "status": 200
+  },
+  {
+    "route": "/industries/cpa-firms",
+    "status": 200
+  },
+  {
+    "route": "/industries/dentists",
+    "status": 200
+  },
+  {
+    "route": "/industries/electricians",
+    "status": 200
+  },
+  {
+    "route": "/industries/financial-advisors",
+    "status": 200
+  },
+  {
+    "route": "/industries/hvac",
+    "status": 200
+  },
+  {
+    "route": "/industries/insurance-agencies",
+    "status": 200
+  },
+  {
+    "route": "/industries/interior-designers",
+    "status": 200
+  },
+  {
+    "route": "/industries/landscapers",
+    "status": 200
+  },
+  {
+    "route": "/industries/medical-practices",
+    "status": 200
+  },
+  {
+    "route": "/industries/medical-spas",
+    "status": 200
+  },
+  {
+    "route": "/industries/mortgage-brokers",
+    "status": 200
+  },
+  {
+    "route": "/industries/pest-control",
+    "status": 200
+  },
+  {
+    "route": "/industries/pet-services",
+    "status": 200
+  },
+  {
+    "route": "/industries/physical-therapists",
+    "status": 200
+  },
+  {
+    "route": "/industries/plumbers",
+    "status": 200
+  },
+  {
+    "route": "/industries/property-managers",
+    "status": 200
+  },
+  {
+    "route": "/industries/real-estate-agents",
+    "status": 200
+  },
+  {
+    "route": "/industries/restaurants",
+    "status": 200
+  },
+  {
+    "route": "/industries/retailers",
+    "status": 200
+  },
+  {
+    "route": "/industries/roofers",
+    "status": 200
+  },
+  {
+    "route": "/industries/salons",
+    "status": 200
+  },
+  {
+    "route": "/industries/tailors",
+    "status": 200
+  },
+  {
+    "route": "/industries/tax-preparers",
+    "status": 200
+  },
+  {
+    "route": "/industries/therapists",
+    "status": 200
+  },
+  {
+    "route": "/industries/tutors",
+    "status": 200
+  },
+  {
+    "route": "/industries/veterinarians",
+    "status": 200
+  },
+  {
+    "route": "/preview",
+    "status": 200
+  },
+  {
+    "route": "/pricing",
+    "status": 200
+  },
+  {
+    "route": "/quote",
+    "status": 200
+  },
+  {
+    "route": "/what-we-do",
+    "status": 200
+  }
+]

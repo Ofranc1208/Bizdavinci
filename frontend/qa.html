@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Biz Da Vinci — responsive QA</title><style>body{margin:0;background:#e8edf5;font:13px system-ui;color:#17233b}header{height:48px;display:flex;align-items:center;gap:18px;padding:0 15px;position:sticky;top:0;left:0;z-index:2;background:#fff;border-bottom:1px solid #d8e0ed;width:100vw;box-sizing:border-box}a{color:#175bff}iframe{display:block;border:0;background:#fff}select{padding:4px}label{white-space:nowrap}</style></head><body><header><b>Responsive QA</b><label>Viewport <select id="width"><option>1440</option><option>1024</option><option>390</option><option>360</option></select></label><label>Page <select id="route"><option value="/">Home</option><option value="/audit">Audit</option><option value="/preview">Preview</option><option value="/quote">Quote</option><option value="/pricing">Pricing</option><option value="/examples">Examples</option><option value="/about">About</option><option value="/contact">Contact</option><option value="/how-it-works">How it works</option></select></label><a href="/">Open app</a></header><iframe title="Responsive website preview" id="frame"></iframe><script type="module">
+import {routes} from "/data.js";
+for(const [path,title] of Object.entries(routes)){if(![...document.querySelector("#route").options].some(o=>o.value===path))document.querySelector("#route").add(new Option(title,path));}
+
+for(const id of ['refresh','rebuild','marketing'])document.querySelector('#route').add(new Option('Service: '+id,'/what-we-do?service='+id));
+const params=new URLSearchParams(location.search),width=document.querySelector('#width'),route=document.querySelector('#route'),frame=document.querySelector('#frame');
+width.value=['1440','1024','390','360'].includes(params.get('width'))?params.get('width'):'1440';
+route.value=[...route.options].some(o=>o.value===params.get('route'))?params.get('route'):'/';
+function update(){status.dataset.ready='false';status.textContent='Loading…';frame.style.width=width.value+'px';frame.style.height=(params.get('height')||'1100')+'px';frame.src=route.value;document.body.style.width=width.value+'px';}
+const status=document.createElement('output');status.id='qa-status';status.style.cssText='font-size:10px;margin-left:auto';document.querySelector('header').append(status);
+frame.addEventListener('load',async()=>{const d=frame.contentDocument;await d.fonts.ready;await Promise.all([...d.images].map(i=>{i.loading='eager';return i.decode().catch(()=>{});} ));requestAnimationFrame(()=>{const result={width:d.documentElement.clientWidth,scrollWidth:d.documentElement.scrollWidth,height:d.documentElement.scrollHeight,brokenImages:[...d.images].filter(i=>!i.complete||!i.naturalWidth).map(i=>i.getAttribute('src'))};status.textContent=JSON.stringify(result);status.title=status.textContent;if(params.get('section'))d.getElementById(params.get('section'))?.scrollIntoView({block:'start'});status.dataset.ready='true';});});
+width.addEventListener('change',update);route.addEventListener('change',update);
+const sweep=document.createElement('button');sweep.textContent='Check every route';document.querySelector('header').append(sweep);
+const output=document.createElement('pre');output.id='sweep-results';output.style.cssText='white-space:pre-wrap;max-width:100vw;padding:16px';document.body.append(output);
+sweep.addEventListener('click',async()=>{
+ sweep.disabled=true;width.disabled=true;route.disabled=true;
+ const results=[];const paths=[...Object.keys(routes),...['refresh','rebuild','marketing','unknown'].map(id=>'/what-we-do?service='+id)];
+ for(const size of [1440,1024,390,360])for(const path of paths){
+  frame.style.width=size+'px';frame.style.height='1000px';
+  await new Promise(resolve=>{frame.addEventListener('load',resolve,{once:true});frame.src=path;});
+  const d=frame.contentDocument;await d.fonts.ready;
+  await Promise.all([...d.images].map(i=>{i.loading='eager';return i.decode().catch(()=>{});}));
+  await new Promise(resolve=>requestAnimationFrame(()=>requestAnimationFrame(resolve)));
+  const links=[...d.querySelectorAll('a[href]')].map(a=>new URL(a.href));
+  const invalidLinks=links.filter(u=>u.origin===location.origin&&!Object.hasOwn(routes,u.pathname)&&!u.pathname.startsWith('/assets/')).map(u=>u.pathname);
+  const missingAnchors=links.filter(u=>u.origin===location.origin&&u.pathname===new URL(frame.src).pathname&&u.search===new URL(frame.src).search&&u.hash&&!d.getElementById(decodeURIComponent(u.hash.slice(1)))).map(u=>u.hash);
+  const item={path,viewport:size,width:d.documentElement.clientWidth,scrollWidth:d.documentElement.scrollWidth,h1:d.querySelector('main h1')?.textContent||'',brokenImages:[...d.images].filter(i=>!i.complete||!i.naturalWidth).map(i=>i.getAttribute('src')),invalidLinks,missingAnchors};
+  item.pass=item.width>=item.scrollWidth&&!!item.h1&&!item.brokenImages.length&&!invalidLinks.length&&!missingAnchors.length;
+  results.push(item);output.textContent=JSON.stringify({completed:results.length,total:paths.length*4,failures:results.filter(x=>!x.pass),results},null,2);
+ }
+ output.dataset.complete='true';sweep.disabled=false;width.disabled=false;route.disabled=false;
+});
+update();
+</script></body></html>

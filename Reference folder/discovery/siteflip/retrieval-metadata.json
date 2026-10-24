@@ -1,0 +1,51 @@
+[
+  {
+    "requestedUrl": "https://www.siteflip.app/",
+    "returnedUrl": "https://www.siteflip.app/",
+    "title": "SiteFlip — We Already Redesigned Your Website",
+    "statusCode": 200,
+    "scrapeId": "01a16a68-13a6-733f-a335-eb7d210668a5",
+    "sourceUrl": "https://www.siteflip.app/",
+    "markdownCharacters": 5498,
+    "retrievalDate": "2026-10-23",
+    "review": "selected_sections_and_journey",
+    "rawPageRepublished": false
+  },
+  {
+    "requestedUrl": "https://www.siteflip.app/terms",
+    "returnedUrl": "https://www.siteflip.app/terms",
+    "title": "Terms of Service — SiteFlip",
+    "statusCode": 200,
+    "scrapeId": "01a16a69-a289-762a-818e-639b8eab3de2",
+    "sourceUrl": "https://www.siteflip.app/terms",
+    "markdownCharacters": 3736,
+    "retrievalDate": "2026-10-23",
+    "review": "selected_sections_and_journey",
+    "rawPageRepublished": false
+  },
+  {
+    "requestedUrl": "https://www.siteflip.app/privacy",
+    "returnedUrl": "https://www.siteflip.app/privacy",
+    "title": "Privacy Policy — SiteFlip",
+    "statusCode": 200,
+    "scrapeId": "01a16a69-a2c5-7480-ad43-45c89801aaa0",
+    "sourceUrl": "https://www.siteflip.app/privacy",
+    "markdownCharacters": 2219,
+    "retrievalDate": "2026-10-23",
+    "review": "selected_sections_and_journey",
+    "rawPageRepublished": false
+  },
+  {
+    "requestedUrl": "https://www.siteflip.app/legal",
+    "returnedUrl": "https://www.siteflip.app/legal",
+    "title": "Legal Notice — SiteFlip",
+    "statusCode": 200,
+    "scrapeId": "01a16a69-a2c3-7798-87c7-bbe38dd11e25",
+    "sourceUrl": "https://www.siteflip.app/legal",
+    "markdownCharacters": 1852,
+    "retrievalDate": "2026-10-23",
+    "review": "selected_sections_and_journey",
+    "rawPageRepublished": false
+  }
+]
+

@@ -1,0 +1,1331 @@
+{
+  "date": "2026-10-23",
+  "site": "sitehike",
+  "mapResultCount": 162,
+  "mapLimit": 300,
+  "mapReachedLimit": false,
+  "exhaustiveDomainInventory": false,
+  "selectedPagesReviewed": 22,
+  "normalizedInventoryCount": 162,
+  "records": [
+    {
+      "url": "https://www.sitehike.com/blog/contractor-website-examples",
+      "title": "Contractor Website Examples From Three Trades | SiteHike",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/contractor-website-examples",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/pricing",
+      "title": "Website and Local SEO Pricing for Contractors | SiteHike",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.sitehike.com/pricing",
+      "normalizedUrl": "https://www.sitehike.com/pricing",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.sitehike.com",
+      "title": "SiteHike: Local SEO Company and Web Design for Contractors",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.sitehike.com/",
+      "normalizedUrl": "https://www.sitehike.com",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.sitehike.com/work",
+      "title": "Contractor Websites We Have Built",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.sitehike.com/work",
+      "normalizedUrl": "https://www.sitehike.com/work",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.sitehike.com/services",
+      "title": "Website Design and Local SEO Services",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.sitehike.com/services",
+      "normalizedUrl": "https://www.sitehike.com/services",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.sitehike.com/industries",
+      "title": "Websites and Local SEO by Trade",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.sitehike.com/industries",
+      "normalizedUrl": "https://www.sitehike.com/industries",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.sitehike.com/blog",
+      "title": "Local SEO and Website Advice for Trades",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/about",
+      "title": "About SiteHike | Websites for Home Service Trades",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/about",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/contact",
+      "title": "Contact SiteHike | New Jersey Web Design and SEO",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.sitehike.com/contact",
+      "normalizedUrl": "https://www.sitehike.com/contact",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.sitehike.com/book",
+      "title": "Book a Free Call",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.sitehike.com/book",
+      "normalizedUrl": "https://www.sitehike.com/book",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.sitehike.com/free-audit",
+      "title": "Get a free audit of your site and rankings",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.sitehike.com/free-audit",
+      "normalizedUrl": "https://www.sitehike.com/free-audit",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.sitehike.com/crm",
+      "title": "Missed Call Text Back and CRM for Contractors",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.sitehike.com/crm",
+      "normalizedUrl": "https://www.sitehike.com/crm",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.sitehike.com/faq",
+      "title": "SiteHike FAQ: Pricing, Contracts and Ownership",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.sitehike.com/faq",
+      "normalizedUrl": "https://www.sitehike.com/faq",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.sitehike.com/terms-of-service",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.sitehike.com/terms-of-service",
+      "normalizedUrl": "https://www.sitehike.com/terms-of-service",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.sitehike.com/privacy-policy",
+      "title": "Privacy Policy",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/privacy-policy",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/comparisons",
+      "title": "How SiteHike Compares",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/comparisons",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/process",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.sitehike.com/process",
+      "normalizedUrl": "https://www.sitehike.com/process",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.sitehike.com/resources",
+      "title": "Free Resources for Home Service Contractors",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/resources",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/seo-for-contractors",
+      "title": "SEO for Contractors and Local SEO Services",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/seo-for-contractors",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/contractor-website-design",
+      "title": "Contractor website design that books jobs",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/contractor-website-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/home-service-marketing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/home-service-marketing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/new-jersey-seo",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/new-jersey-seo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/new-jersey-web-design",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/new-jersey-web-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/pressure-washing-marketing",
+      "title": "Pressure Washing Marketing | Websites and SEO | SiteHike",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/pressure-washing-marketing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/electrician-seo",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/electrician-seo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/hvac-seo",
+      "title": "HVAC SEO Services for HVAC Companies",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/hvac-seo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/landscaping-seo",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/landscaping-seo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/plumbing-seo",
+      "title": "Plumbing SEO Company and SEO for Plumbers",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/plumbing-seo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/window-cleaning-marketing",
+      "title": "Window Cleaning Marketing | Websites and SEO | SiteHike",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/window-cleaning-marketing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/roofing-seo",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/roofing-seo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/pennsylvania-seo",
+      "title": "Pennsylvania SEO for Home Service Businesses",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/pennsylvania-seo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/painter-seo",
+      "title": "Painter SEO and Painting Contractor Marketing",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/painter-seo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/reviews",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.sitehike.com/reviews",
+      "normalizedUrl": "https://www.sitehike.com/reviews",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.sitehike.com/ai-website",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/ai-website",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/real-estate-seo",
+      "title": "Real Estate SEO and Website Design for Realtors",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/real-estate-seo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/small-business-web-design",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/small-business-web-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/webflow-agency",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/webflow-agency",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/restaurant-website-design",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.sitehike.com/restaurant-website-design",
+      "normalizedUrl": "https://www.sitehike.com/restaurant-website-design",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.sitehike.com/local-seo",
+      "title": "Local SEO Services and Local SEO Company",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.sitehike.com/local-seo",
+      "normalizedUrl": "https://www.sitehike.com/local-seo",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.sitehike.com/roofing-website-design",
+      "title": "Roofing Website Design for Roofing Companies",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/roofing-website-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/plumber-website-design",
+      "title": "Plumbing Website Design for Plumbers",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/plumber-website-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/electrician-website-design",
+      "title": "Electrician Website Design with Local SEO | SiteHike",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/electrician-website-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/hvac-website-design",
+      "title": "HVAC Website Design with Local SEO | SiteHike",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/hvac-website-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/search",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/search",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/website-redesign",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.sitehike.com/website-redesign",
+      "normalizedUrl": "https://www.sitehike.com/website-redesign",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.sitehike.com/crm-automations",
+      "title": "SiteHike CRM Automations: What Each One Does",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/crm-automations",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/construction-website-design",
+      "title": "Construction Website Design for Contractors and Builders",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/construction-website-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/pressure-washing-website-design",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/pressure-washing-website-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/landscaping-website-design",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/landscaping-website-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/connecticut-seo",
+      "title": "Connecticut SEO Company for Contractors",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/connecticut-seo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/website-maintenance",
+      "title": "Website Maintenance Services for Small Businesses",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.sitehike.com/website-maintenance",
+      "normalizedUrl": "https://www.sitehike.com/website-maintenance",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.sitehike.com/pest-control-marketing",
+      "title": "Pest Control Marketing Agency and SEO",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/pest-control-marketing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/moving-company-marketing",
+      "title": "Moving company marketing and SEO for local movers",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/moving-company-marketing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/garage-door-marketing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/garage-door-marketing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/remodeling-contractor-marketing",
+      "title": "Remodeling Contractor Marketing and SEO",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/remodeling-contractor-marketing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/tree-service-marketing",
+      "title": "Tree Service Marketing, SEO and Website Design",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/tree-service-marketing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/nonprofit-website-design",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/nonprofit-website-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/google-ad-grants",
+      "title": "Google Ad Grants Management for Nonprofits and Churches",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/google-ad-grants",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/nonprofit-marketing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/nonprofit-marketing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/church-marketing",
+      "title": "Church Marketing: Websites, SEO and Google Ad Grants",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/church-marketing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/plumbing-and-hvac-seo",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/plumbing-and-hvac-seo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/lawn-care-website-design",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/lawn-care-website-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/junk-removal-marketing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/junk-removal-marketing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/cleaning-business-marketing",
+      "title": "Cleaning Business Marketing and SEO",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/cleaning-business-marketing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/services/ai-visibility",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.sitehike.com/services/ai-visibility",
+      "normalizedUrl": "https://www.sitehike.com/services/ai-visibility",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.sitehike.com/services/content",
+      "title": "SEO Content Writing for Contractors",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/services/content",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/services/google-ads",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/services/google-ads",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/services/google-business-profile",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/services/google-business-profile",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/services/reputation",
+      "title": "Reputation & Reviews for Contractors",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/services/reputation",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/work/applewood-exterior-cleaning",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/work/applewood-exterior-cleaning",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/work/church-at-bergen",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/work/church-at-bergen",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/work/dual-educational-resources",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/work/dual-educational-resources",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/work/duncan-power-washing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/work/duncan-power-washing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/work/eagles-power-washing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/work/eagles-power-washing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/work/eco-friendly-printer",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/work/eco-friendly-printer",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/work/extreme-exterior-cleaning",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/work/extreme-exterior-cleaning",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/work/feagles-home-team",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/work/feagles-home-team",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/work/generoso-group",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/work/generoso-group",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/work/hope-is-coming",
+      "title": "Hope Is Coming Website | SiteHike Case Study",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/work/hope-is-coming",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/work/mc-outdoor-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/work/mc-outdoor-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/work/mevo",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/work/mevo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/work/nicky-blue-power-washing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/work/nicky-blue-power-washing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/work/pelican-plumbing",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.sitehike.com/work/pelican-plumbing",
+      "normalizedUrl": "https://www.sitehike.com/work/pelican-plumbing",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.sitehike.com/work/powerup-sales",
+      "title": "PowerUp Sales Website | SiteHike Case Study",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/work/powerup-sales",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/work/prime-power-wash",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/work/prime-power-wash",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/work/stampede-bbq",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.sitehike.com/work/stampede-bbq",
+      "normalizedUrl": "https://www.sitehike.com/work/stampede-bbq",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.sitehike.com/work/trapani-electric",
+      "title": "Trapani Electric Website | SiteHike Case Study",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/work/trapani-electric",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/work/twigs-paper",
+      "title": "Twigs Paper Website | SiteHike Case Study",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/work/twigs-paper",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/work/under-pressure-house-washing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/work/under-pressure-house-washing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/work/virile-barber-shop",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.sitehike.com/work/virile-barber-shop",
+      "normalizedUrl": "https://www.sitehike.com/work/virile-barber-shop",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.sitehike.com/work/wake-window-cleaning",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/work/wake-window-cleaning",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/work/william-harris-electrical",
+      "title": "William Harris Electrical Website | SiteHike Case Study",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/work/william-harris-electrical",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/testimonials/chase-tanis",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/testimonials/chase-tanis",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/testimonials/emily-kelley",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/testimonials/emily-kelley",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/author/david-halperin",
+      "title": "David Halperin | SiteHike",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/author/david-halperin",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/author/eric-koenig",
+      "title": "Eric Koenig",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/author/eric-koenig",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/author/josh-halperin",
+      "title": "Josh Halperin | SiteHike",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/author/josh-halperin",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/category/google-business-profile",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/category/google-business-profile",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/category/local-seo",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/category/local-seo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/category/reviews",
+      "title": "Reviews | SiteHike Blog",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/category/reviews",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/category/websites",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/category/websites",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/add-manager-google-business-profile",
+      "title": "How to Add a Manager to Your Google Business Profile",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/add-manager-google-business-profile",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/aeo-vs-seo",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/aeo-vs-seo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/electrician-marketing-ideas",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/electrician-marketing-ideas",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/first-three-seconds",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/first-three-seconds",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/fix-your-google-business-profile",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/fix-your-google-business-profile",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/free-business-listings-for-contractors",
+      "title": "Free Business Listings for Contractors",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/free-business-listings-for-contractors",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/google-ad-grants-application",
+      "title": "How to apply for Google Ad Grants: requirements and steps",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/google-ad-grants-application",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/google-ad-grants-for-churches",
+      "title": "Google Ad Grants for Churches: Eligibility and Setup",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/google-ad-grants-for-churches",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/google-business-profile-categories",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/google-business-profile-categories",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/google-business-profile-photo-size",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/google-business-profile-photo-size",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/google-business-profile-scam-calls",
+      "title": "Google Business Profile Scam Calls: How to Spot Them",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/google-business-profile-scam-calls",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/google-business-profile-suspended",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/google-business-profile-suspended",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/google-business-profile-verification",
+      "title": "Google Business Profile verification: how to get verified",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/google-business-profile-verification",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/google-guaranteed",
+      "title": "Google Guaranteed Is Now Google Verified",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/google-guaranteed",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/google-local-services-ads",
+      "title": "LSA Ads: Google Local Services Ads for Contractors",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/google-local-services-ads",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/google-map-pack",
+      "title": "How to Rank Higher on Google Maps (Map Pack Guide)",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/google-map-pack",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/google-review-link",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/google-review-link",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/how-long-does-seo-take",
+      "title": "How Long Does SEO Take for a Local Business?",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/how-long-does-seo-take",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/how-to-ask-for-reviews",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/how-to-ask-for-reviews",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/how-to-get-excavation-jobs",
+      "title": "How excavation contractors get more jobs from Google",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/how-to-get-excavation-jobs",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/how-to-get-pressure-washing-jobs",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/how-to-get-pressure-washing-jobs",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/how-to-get-roofing-leads",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/how-to-get-roofing-leads",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/how-to-respond-to-negative-reviews",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/how-to-respond-to-negative-reviews",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/hvac-marketing-ideas",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/hvac-marketing-ideas",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/is-thumbtack-worth-it",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/is-thumbtack-worth-it",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/landscaping-marketing-ideas",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/landscaping-marketing-ideas",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/local-seo-checklist",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/local-seo-checklist",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/local-seo-cost",
+      "title": "How Much Does Local SEO Cost in 2026?",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/local-seo-cost",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/marketing-for-contractors",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/marketing-for-contractors",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/missed-call-text-back",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/missed-call-text-back",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/painting-business-marketing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/painting-business-marketing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/plumbing-marketing-ideas",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/plumbing-marketing-ideas",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/pressure-washing-logo",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/pressure-washing-logo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/pressure-washing-website-examples",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/pressure-washing-website-examples",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/rank-first-at-your-shop",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/rank-first-at-your-shop",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/small-business-website-cost",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/small-business-website-cost",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/squarespace-vs-webflow",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/squarespace-vs-webflow",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/webflow-vs-wordpress",
+      "title": "Webflow vs WordPress for Small Business Websites",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/webflow-vs-wordpress",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/what-is-aeo",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/what-is-aeo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/blog/wix-vs-webflow",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/blog/wix-vs-webflow",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/compare/180-sites",
+      "title": "SiteHike vs 180 Sites | Honest Comparison",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.sitehike.com/compare/180-sites",
+      "normalizedUrl": "https://www.sitehike.com/compare/180-sites",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.sitehike.com/compare/ai-website-builder",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/compare/ai-website-builder",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/compare/diy",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/compare/diy",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/compare/freelancer",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/compare/freelancer",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/compare/hibu",
+      "title": "SiteHike vs Hibu | Comparison",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/compare/hibu",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/compare/lead-generation-sites",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/compare/lead-generation-sites",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/compare/national-agency",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/compare/national-agency",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/compare/scorpion",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/compare/scorpion",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/compare/thrive",
+      "title": "SiteHike vs Thrive | Honest Comparison",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/compare/thrive",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/compare/wordpress-agency",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/compare/wordpress-agency",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/partners/highlevel",
+      "title": "Our HighLevel Partnership",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/partners/highlevel",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/partners/housecall-pro",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/partners/housecall-pro",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/partners/jobber",
+      "title": "Our Jobber Partnership",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/partners/jobber",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/partners/pwna",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/partners/pwna",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/partners/webflow",
+      "title": "Our Webflow Partnership",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/partners/webflow",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/projects/eco-friendly-printer",
+      "title": "SiteHike",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/projects/eco-friendly-printer",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/services/content-marketing",
+      "title": "SiteHike",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/services/content-marketing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/industries/electricians",
+      "title": "Websites and Local SEO for Electricians",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/industries/electricians",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/industries/window-cleaning",
+      "title": "Websites and Local SEO for Window Cleaning",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/industries/window-cleaning",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/industries/roofers",
+      "title": "SiteHike",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/industries/roofers",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.sitehike.com/work/nj-rps",
+      "title": "NJ RPS Website | SiteHike Case Study",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.sitehike.com/work/nj-rps",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    }
+  ]
+}
+

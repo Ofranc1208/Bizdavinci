@@ -1,0 +1,2384 @@
+{
+  "date": "2026-10-23",
+  "site": "pronto-marketing",
+  "mapResultCount": 297,
+  "mapLimit": 300,
+  "mapReachedLimit": false,
+  "exhaustiveDomainInventory": false,
+  "selectedPagesReviewed": 19,
+  "normalizedInventoryCount": 294,
+  "records": [
+    {
+      "url": "https://www.prontomarketing.com/sitemap_index.xml",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/sitemap_index.xml",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/windows-10-eol-marketing-playbook",
+      "title": "Windows 10 EOL: Marketing Playbook for Windows 11 Upgrades",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/windows-10-eol-marketing-playbook",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/case-studies-sitemap.xml",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/case-studies-sitemap.xml",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/partners-sitemap.xml",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/partners-sitemap.xml",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/post-sitemap1.xml",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/post-sitemap1.xml",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/pronto-people-sitemap.xml",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/pronto-people-sitemap.xml",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-to-choose-wordpress-support-agency",
+      "title": "How to Choose a WordPress Support Agency (2026 Guide)",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-to-choose-wordpress-support-agency",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/website-management-services",
+      "title": "Website Management Services | Start Your Free 30-Day Trial",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.prontomarketing.com/website-management-services/",
+      "normalizedUrl": "https://www.prontomarketing.com/website-management-services",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.prontomarketing.com/5-million-milestone-sitemap.xml",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/5-million-milestone-sitemap.xml",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/careers",
+      "title": "Careers | Pronto Marketing",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/careers",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/best-wordpress-maintenance-companies/#:~:text=Multidots%3A%20Best%20for%20larger%20organizations%20and%20businesses.,Agencies%20and%20multi%2Dclient%20management%20%7C%20%2439%2Fsite%2Fmo%20%7C",
+      "title": "7 Best WordPress Support & Maintenance Services (2026)",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/best-wordpress-maintenance-companies",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/ifso_triggers-sitemap.xml",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/ifso_triggers-sitemap.xml",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/locations-sitemap.xml",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/locations-sitemap.xml",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/msp-adwords-management",
+      "title": "MSP Adwords Management Best Practices To Get More Leads",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/msp-adwords-management",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com",
+      "title": "Pronto Marketing - Top-Rated WordPress Management Agency",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.prontomarketing.com/",
+      "normalizedUrl": "https://www.prontomarketing.com",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.prontomarketing.com/post-sitemap2.xml",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/post-sitemap2.xml",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/faq-sitemap.xml",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/faq-sitemap.xml",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/page-sitemap.xml",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/page-sitemap.xml",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/wordpress-site-migration-checklist/#:~:text=Key%20Takeaways%20*%20Preparation%20is%20Everything%3A%20A,begins%20long%20before%20you%20move%20any%20files.",
+      "title": "How to Migrate Your WordPress Site to a New Host in 2026",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/wordpress-site-migration-checklist",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/why-elementor-breaks-after-updates",
+      "title": "Why Elementor Breaks After Updates (6 Mistakes to Avoid)",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/why-elementor-breaks-after-updates",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/post-sitemap4.xml",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/post-sitemap4.xml",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-to-show-up-in-ai-search-results",
+      "title": "How to Show Up in AI Search Results - Proven Guide for 2026",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-to-show-up-in-ai-search-results",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/post-sitemap3.xml",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/post-sitemap3.xml",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/law-firm-marketing-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/law-firm-marketing-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/msp-marketing-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/msp-marketing-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/referral-partner-program-terms-and-conditions",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/referral-partner-program-terms-and-conditions",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/website-seo-audit-service",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.prontomarketing.com/website-seo-audit-service/",
+      "normalizedUrl": "https://www.prontomarketing.com/website-seo-audit-service",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.prontomarketing.com/digital-marketing-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/digital-marketing-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/google-ads-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/google-ads-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/ai-search-optimization",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/ai-search-optimization",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/local-services-ads-agency",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/local-services-ads-agency",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/wordpress-website-design-services",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.prontomarketing.com/wordpress-website-design-services/",
+      "normalizedUrl": "https://www.prontomarketing.com/wordpress-website-design-services",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.prontomarketing.com/local-seo-services",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.prontomarketing.com/local-seo-services/",
+      "normalizedUrl": "https://www.prontomarketing.com/local-seo-services",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog-writing-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog-writing-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/master-services-agreement",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.prontomarketing.com/master-services-agreement/",
+      "normalizedUrl": "https://www.prontomarketing.com/master-services-agreement",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.prontomarketing.com/white-label-wordpress-support",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/white-label-wordpress-support",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/wordpress-maintenance-services",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.prontomarketing.com/wordpress-maintenance-services/",
+      "normalizedUrl": "https://www.prontomarketing.com/wordpress-maintenance-services",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.prontomarketing.com/faqs",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.prontomarketing.com/faqs/",
+      "normalizedUrl": "https://www.prontomarketing.com/faqs",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.prontomarketing.com/wordpress-seo-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/wordpress-seo-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/consultation-request",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.prontomarketing.com/consultation-request/",
+      "normalizedUrl": "https://www.prontomarketing.com/consultation-request",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.prontomarketing.com/woocommerce-maintenance-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/woocommerce-maintenance-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/woocommerce-development-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/woocommerce-development-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/google-my-business-management",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/google-my-business-management",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/website-development-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/website-development-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/pricing",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.prontomarketing.com/pricing/",
+      "normalizedUrl": "https://www.prontomarketing.com/pricing",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.prontomarketing.com/partners",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/partners",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/about-us",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/about-us",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/wordpress-support",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/wordpress-support",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/wordpress-support-plans",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/wordpress-support-plans",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/wordpress-website-design-services/locations",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/wordpress-website-design-services/locations",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/employee-handbook",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/employee-handbook",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/seo-services-for-law-firms",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/seo-services-for-law-firms",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/ppc-for-lawyers",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/ppc-for-lawyers",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/employee-handbook-philippines",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/employee-handbook-philippines",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/msp-websites",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/msp-websites",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/dedicated-wordpress-support-specialist",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/dedicated-wordpress-support-specialist",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/call/project-manager",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/call/project-manager",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/pronto-vs-kinsta-retail-and-enterprise",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/pronto-vs-kinsta-retail-and-enterprise",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/website-cost-calculator",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.prontomarketing.com/website-cost-calculator/",
+      "normalizedUrl": "https://www.prontomarketing.com/website-cost-calculator",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.prontomarketing.com/white-label-services-addendum",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/white-label-services-addendum",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/pronto-vs-godaddy-retail-hosting",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/pronto-vs-godaddy-retail-hosting",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/seo-services-san-diego",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/seo-services-san-diego",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/ecommerce-website-development",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/ecommerce-website-development",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/marketing-services-team",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/marketing-services-team",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/client-success",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/client-success",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/cancellation-faq",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.prontomarketing.com/cancellation-faq/",
+      "normalizedUrl": "https://www.prontomarketing.com/cancellation-faq",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.prontomarketing.com/link-building-service",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/link-building-service",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/dedicated-wordpress-support-specialist-v2",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/dedicated-wordpress-support-specialist-v2",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/call/adam-porteous",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/call/adam-porteous",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/medical-website-design",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.prontomarketing.com/medical-website-design/",
+      "normalizedUrl": "https://www.prontomarketing.com/medical-website-design",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.prontomarketing.com/law-firm-website-design-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/law-firm-website-design-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/construction-website-design",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.prontomarketing.com/construction-website-design/",
+      "normalizedUrl": "https://www.prontomarketing.com/construction-website-design",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.prontomarketing.com/manufacturing-website-design",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/manufacturing-website-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/wordpress-outsourcing-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/wordpress-outsourcing-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/bing-ads-management",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/bing-ads-management",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/white-label-ppc-agency",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/white-label-ppc-agency",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/call/tom",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/call/tom",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/seo-services-tampa",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/seo-services-tampa",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/emergency-wordpress-support",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/emergency-wordpress-support",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/e2m-solutions-alternative",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/e2m-solutions-alternative",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/wp-engine-alternative",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/wp-engine-alternative",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/wix-alternative",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/wix-alternative",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/godaddy-alternative",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/godaddy-alternative",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/wp-buffs-alternative",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/wp-buffs-alternative",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/partner",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/partner",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/terms-conditions-for-support-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/terms-conditions-for-support-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/white-label-digital-marketing-agency",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/white-label-digital-marketing-agency",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/nonprofit-website-design",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/nonprofit-website-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/msp-seo-agency",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/msp-seo-agency",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/white-label-web-design",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/white-label-web-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/sell-your-agency",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/sell-your-agency",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/ai-policy",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/ai-policy",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/national-seo-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/national-seo-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/contact-us",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.prontomarketing.com/contact-us/",
+      "normalizedUrl": "https://www.prontomarketing.com/contact-us",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.prontomarketing.com/call",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/call",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/fitness-website-design",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/fitness-website-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/wordpress-website-design-services/new-york",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/wordpress-website-design-services/new-york",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/testimonials",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.prontomarketing.com/testimonials/",
+      "normalizedUrl": "https://www.prontomarketing.com/testimonials",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.prontomarketing.com/wordpress-speed-optimization-service",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/wordpress-speed-optimization-service",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/webinars",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/webinars",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/cannabis-website-design",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/cannabis-website-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/google-my-business-tips",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/google-my-business-tips",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/b2b-blogging-guide",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/b2b-blogging-guide",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/syndicated-blog-setup-request",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/syndicated-blog-setup-request",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/wordpress-security-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/wordpress-security-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/marketing-budget-calculator",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.prontomarketing.com/marketing-budget-calculator/",
+      "normalizedUrl": "https://www.prontomarketing.com/marketing-budget-calculator",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.prontomarketing.com/contact-us-thai",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/contact-us-thai",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/white-label-seo-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/white-label-seo-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/white-label-local-seo-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/white-label-local-seo-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/white-label-wordpress-development",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/white-label-wordpress-development",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/tim-kelsey",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/tim-kelsey",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/pm-bio-nuch",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/pm-bio-nuch",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/pm-bio-pam",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/pm-bio-pam",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/pm-bio-ploy",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/pm-bio-ploy",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/pm-bio-mindy",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/pm-bio-mindy",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/elementor-troubleshooting-internal",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/elementor-troubleshooting-internal",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/industries",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/industries",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/financial-services-website-design",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/financial-services-website-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/google-essentials-audit",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/google-essentials-audit",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/call/sales",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/call/sales",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/client-referral-offer",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/client-referral-offer",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/white-label-partner-program-agreement",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/white-label-partner-program-agreement",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/terms-of-service",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/terms-of-service",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/5-million-milestone-podcast",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/5-million-milestone-podcast",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/call/reseller",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/call/reseller",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/law-firm-seo",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/law-firm-seo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/call/hugo",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/call/hugo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/pronto-values",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/pronto-values",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/5-million-milestone/wordpress-security-expert-tips-for-msps",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/5-million-milestone/wordpress-security-expert-tips-for-msps",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/5-million-milestone/unlocking-10x-growth-law-firm-case-study",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/5-million-milestone/unlocking-10x-growth-law-firm-case-study",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/5-million-milestone/how-msps-use-qbrs-to-grow-strategically-with-alex-markov",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/5-million-milestone/how-msps-use-qbrs-to-grow-strategically-with-alex-markov",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/5-million-milestone/agency-growth-phases",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/5-million-milestone/agency-growth-phases",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/5-million-milestone/scaling-global-marketing-agency",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/5-million-milestone/scaling-global-marketing-agency",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/5-million-milestone/building-future-proof-marketing-agency",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/5-million-milestone/building-future-proof-marketing-agency",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/5-million-milestone/lead-attribution-data",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/5-million-milestone/lead-attribution-data",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/5-million-milestone/scale-msp-faster-with-payment-solution",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/5-million-milestone/scale-msp-faster-with-payment-solution",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/5-million-milestone/building-strategic-partnerships-to-grow-your-msp-business",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/5-million-milestone/building-strategic-partnerships-to-grow-your-msp-business",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/5-million-milestone/hiring-for-success-navigating-the-challenges-of-scaling-your-team-w-tracy-arno",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/5-million-milestone/hiring-for-success-navigating-the-challenges-of-scaling-your-team-w-tracy-arno",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/5-million-milestone/creating-a-minimum-viable-marketing-team-for-sustained-growth-5mm-ep-2",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/5-million-milestone/creating-a-minimum-viable-marketing-team-for-sustained-growth-5mm-ep-2",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/5-million-milestone/leveraging-social-media-for-professional-service-firms",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/5-million-milestone/leveraging-social-media-for-professional-service-firms",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/5-million-milestone/the-key-to-effective-b2b-positioning",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/5-million-milestone/the-key-to-effective-b2b-positioning",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/5-million-milestone/5-ways-smbs-can-build-a-strong-sales-process-w-roger-williams",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/5-million-milestone/5-ways-smbs-can-build-a-strong-sales-process-w-roger-williams",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/5-million-milestone/scaling-an-msp-to-10-million-through-community-leadership-and-culture",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/5-million-milestone/scaling-an-msp-to-10-million-through-community-leadership-and-culture",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/5-million-milestone/build-tech-focused-marketing-agency",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/5-million-milestone/build-tech-focused-marketing-agency",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/5-million-milestone/customer-reviews-to-win-b2b-clients",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/5-million-milestone/customer-reviews-to-win-b2b-clients",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/5-million-milestone/building-trust-and-recurring-revenue-with-smart-seo-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/5-million-milestone/building-trust-and-recurring-revenue-with-smart-seo-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/everything-you-need-to-know-about-retargeting-campaigns",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/everything-you-need-to-know-about-retargeting-campaigns",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/stylish-interactive-ecards-strengthen-client-relationships",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/stylish-interactive-ecards-strengthen-client-relationships",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/case-study-advanced-seo-improves-rankings-by-25-positions",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/case-study-advanced-seo-improves-rankings-by-25-positions",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/4-shortcuts-to-ensuring-your-ebook-keeps-getting-downloaded",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/4-shortcuts-to-ensuring-your-ebook-keeps-getting-downloaded",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-to-keep-coming-up-with-fresh-content-for-your-newsletter-week-after-week",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-to-keep-coming-up-with-fresh-content-for-your-newsletter-week-after-week",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-to-make-your-content-stand-out-when-readers-have-short-attention-spans-and-a-million-choices",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-to-make-your-content-stand-out-when-readers-have-short-attention-spans-and-a-million-choices",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/what-to-do-and-not-do-when-managing-an-ongoing-adwords-campaign",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/what-to-do-and-not-do-when-managing-an-ongoing-adwords-campaign",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/what-a-100-year-old-marketing-adage-can-teach-you-about-retargeting-ads",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/what-a-100-year-old-marketing-adage-can-teach-you-about-retargeting-ads",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/using-social-media-for-business",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/using-social-media-for-business",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/google-ai-and-machine-learning-just-completely-changed-seo-and-no-one-noticed-but-they-better",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/google-ai-and-machine-learning-just-completely-changed-seo-and-no-one-noticed-but-they-better",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/content-marketing-strategy",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/content-marketing-strategy",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/web-support-during-us-business-hours",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/web-support-during-us-business-hours",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/pronto-referral-program",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/pronto-referral-program",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/a-step-by-step-process-for-link-building-through-case-studies",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/a-step-by-step-process-for-link-building-through-case-studies",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/meet-our-phone-support-team",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/meet-our-phone-support-team",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/tips-for-designing-email-marketing-templates",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/tips-for-designing-email-marketing-templates",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/your-2016-resolution-write-more-blog-content",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/your-2016-resolution-write-more-blog-content",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/a-guide-on-lead-generation",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/a-guide-on-lead-generation",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/ecommerce-if-not-now-then-when",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/ecommerce-if-not-now-then-when",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/the-guide-to-getting-more-out-of-pronto-part-4",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/the-guide-to-getting-more-out-of-pronto-part-4",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/so-you-built-your-business-website-yourself-now-what",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/so-you-built-your-business-website-yourself-now-what",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/facebook-shop-plus-facebook-advertising-a-deadly-profitable-combo",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/facebook-shop-plus-facebook-advertising-a-deadly-profitable-combo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/ecommerce-site-expertise",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/ecommerce-site-expertise",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/one-click-satisfaction-surveys-from-simplesat",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/one-click-satisfaction-surveys-from-simplesat",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/why-youre-not-generating-and-converting-leads",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/why-youre-not-generating-and-converting-leads",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-ebooks-can-increase-leads-generated-from-your-website-by-50",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-ebooks-can-increase-leads-generated-from-your-website-by-50",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/what-january-2018s-facebook-update-means-for-your-business",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/what-january-2018s-facebook-update-means-for-your-business",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/the-guide-to-getting-more-out-of-pronto-part-3",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/the-guide-to-getting-more-out-of-pronto-part-3",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/3-signs-its-smart-business-to-upgrade-your-website-functionality",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/3-signs-its-smart-business-to-upgrade-your-website-functionality",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/will-googles-mobile-first-index-hurt-your-organic-traffic",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/will-googles-mobile-first-index-hurt-your-organic-traffic",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/ethics-brain-tricks-and-native-advertising",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/ethics-brain-tricks-and-native-advertising",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/pronto-websites-of-the-month-september-2019",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/pronto-websites-of-the-month-september-2019",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/the-11-frustrating-stages-of-building-your-own-website-and-one-way-to-solve-your-web-presence-woes",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/the-11-frustrating-stages-of-building-your-own-website-and-one-way-to-solve-your-web-presence-woes",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/diy-vs-professionally-developed-websites",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/diy-vs-professionally-developed-websites",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/seo-spam-messages",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/seo-spam-messages",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/solomo-marketing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/solomo-marketing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/dark-social-marketing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/dark-social-marketing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/console-log-february",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/console-log-february",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/back-to-branding-or-the-recent-seo-trends-we-should-all-be-happy-about",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/back-to-branding-or-the-recent-seo-trends-we-should-all-be-happy-about",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/clear-your-inbox-with-gmail-power-tools",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/clear-your-inbox-with-gmail-power-tools",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/facebook-graph-search-for-small-businesses-part-2",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/facebook-graph-search-for-small-businesses-part-2",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/followerwonk-twitter-strategy",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/followerwonk-twitter-strategy",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/disqus-comments-pronto-website",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/disqus-comments-pronto-website",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/on-page-optimization-tips-video",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/on-page-optimization-tips-video",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/the-life-of-an-intern-pronto-makes-summer-awesome",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/the-life-of-an-intern-pronto-makes-summer-awesome",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/not-provided-google-analytics",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/not-provided-google-analytics",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/pronto-organizes-hr-with-a-centralized-data-system",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/pronto-organizes-hr-with-a-centralized-data-system",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/using-google-analytics-as-your-marketing-data-center",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/using-google-analytics-as-your-marketing-data-center",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/connect-your-online-and-offline-conversion-analytics-with-call-tracker",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/connect-your-online-and-offline-conversion-analytics-with-call-tracker",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/the-end-of-com-domains",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/the-end-of-com-domains",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/why-responsive-web-design-is-your-answer-to-being-mobile-friendly",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/why-responsive-web-design-is-your-answer-to-being-mobile-friendly",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/content-marketing-generate-leads",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/content-marketing-generate-leads",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/giving-great-kharma-pronto-csr",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/giving-great-kharma-pronto-csr",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/its-time-to-upgrade-your-website",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/its-time-to-upgrade-your-website",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/https-a-new-way-to-rank",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/https-a-new-way-to-rank",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/website-overhaul",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/website-overhaul",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-to-get-more-local-leads-using-positive-google-reviews",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-to-get-more-local-leads-using-positive-google-reviews",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/using-social-media-for-sales",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/using-social-media-for-sales",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/customer-journey-map",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/customer-journey-map",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/why-is-marketing-research-important",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/why-is-marketing-research-important",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/8-tips-for-writing-clickable-calls-to-action",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/8-tips-for-writing-clickable-calls-to-action",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/the-4-basic-components-of-seo",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/the-4-basic-components-of-seo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-to-get-the-most-out-of-your-content-promote-promote-promote",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-to-get-the-most-out-of-your-content-promote-promote-promote",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/clutch-award",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/clutch-award",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/what-is-google-my-business-and-its-benefits",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/what-is-google-my-business-and-its-benefits",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/what-is-a-lead-magnet-how-can-it-help-ads",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/what-is-a-lead-magnet-how-can-it-help-ads",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/fastest-alternatives-to-elementors-hello-theme",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/fastest-alternatives-to-elementors-hello-theme",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/industrial-websites",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/industrial-websites",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/beautiful-website-design",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/beautiful-website-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/financial-services-websites",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/financial-services-websites",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/why-seo-is-important",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/why-seo-is-important",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-to-rank-higher-on-google",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-to-rank-higher-on-google",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/healthcare-websites",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/healthcare-websites",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/google-remarketing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/google-remarketing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/sales-mindset",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/sales-mindset",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/sales-strategy",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/sales-strategy",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/content-marketing-tips",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/content-marketing-tips",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/five-google-campaign-types-and-when-to-use-each",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/five-google-campaign-types-and-when-to-use-each",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/best-seo-technique",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/best-seo-technique",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/using-social-media-for-marketing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/using-social-media-for-marketing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-to-increase-your-customer-lifetime-value-with-marketing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-to-increase-your-customer-lifetime-value-with-marketing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-to-get-more-business-from-google-claim-your-local-business-listing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-to-get-more-business-from-google-claim-your-local-business-listing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-to-setup-and-manage-a-facebook-advertising-campaign",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-to-setup-and-manage-a-facebook-advertising-campaign",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-to-use-facebook-ads-to-generate-business-leads",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-to-use-facebook-ads-to-generate-business-leads",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/on-the-page-seo",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/on-the-page-seo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/wordpress-security-updates",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/wordpress-security-updates",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/engage-with-your-customers-get-more-testimonials-and-referrals",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/engage-with-your-customers-get-more-testimonials-and-referrals",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-to-grow-backlinks",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-to-grow-backlinks",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/traffic-sources",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/traffic-sources",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/why-your-understanding-of-keyword-use-is-wrong",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/why-your-understanding-of-keyword-use-is-wrong",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/interview-how-one-small-business-achieved-huge-results-with-facebook-advertising",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/interview-how-one-small-business-achieved-huge-results-with-facebook-advertising",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/website-reseller-success-360it-partners",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/website-reseller-success-360it-partners",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/interview-with-the-marketing-gunslinger-steve-miller",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/interview-with-the-marketing-gunslinger-steve-miller",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/pronto-reseller-success-stories-interview-with-roundtable",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/pronto-reseller-success-stories-interview-with-roundtable",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/taxjar-the-ultimate-tax-filing-solution-for-your-business",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/taxjar-the-ultimate-tax-filing-solution-for-your-business",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/spider-bot",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/spider-bot",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/improve-your-email-open-rate-by-29-with-automation",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/improve-your-email-open-rate-by-29-with-automation",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-key-investments-helped-orchestrate-technologies-stand-out",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-key-investments-helped-orchestrate-technologies-stand-out",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/automate-your-online-business-with-infusedwoo-the-powerful-woocommerceinfusionsoft-plugin",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/automate-your-online-business-with-infusedwoo-the-powerful-woocommerceinfusionsoft-plugin",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-to-transition-to-facebook-ppc-from-adwords-ppc",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-to-transition-to-facebook-ppc-from-adwords-ppc",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/what-every-business-owner-who-blogs-must-do-to-succeed",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/what-every-business-owner-who-blogs-must-do-to-succeed",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/a-no-nonsense-guide-to-online-marketing-for-the-outdoor-industry",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/a-no-nonsense-guide-to-online-marketing-for-the-outdoor-industry",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/google-adwords-campaigns",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/google-adwords-campaigns",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/email-newsletters-how-much-is-too-much",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/email-newsletters-how-much-is-too-much",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/a-briefish-history-of-how-google-search-algorithms-affect-your-blog",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/a-briefish-history-of-how-google-search-algorithms-affect-your-blog",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/the-one-thing-more-than-50-of-seo-consultants-are-getting-wrong",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/the-one-thing-more-than-50-of-seo-consultants-are-getting-wrong",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-to-improve-your-seo-with-ebook-campaigns",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-to-improve-your-seo-with-ebook-campaigns",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/why-you-should-take-automated-seo-reports-with-a-gain-of-salt",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/why-you-should-take-automated-seo-reports-with-a-gain-of-salt",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/8-effective-tips-to-help-customers-love-your-business",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/8-effective-tips-to-help-customers-love-your-business",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/creating-a-better-call-to-action-for-your-customers",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/creating-a-better-call-to-action-for-your-customers",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/front-and-center-the-role-of-brochures-in-a-small-business",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/front-and-center-the-role-of-brochures-in-a-small-business",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/ebooks-powering-the-information-highway",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/ebooks-powering-the-information-highway",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/powerful-tips-and-tools-for-email",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/powerful-tips-and-tools-for-email",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/one-marketing-misconception-to-drop-in-2017",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/one-marketing-misconception-to-drop-in-2017",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/ecards-an-inventive-and-noninvasive-marketing-tool",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/ecards-an-inventive-and-noninvasive-marketing-tool",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-to-secure-your-website-from-malware",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-to-secure-your-website-from-malware",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/valuable-ways-to-increase-your-click-to-conversion-rate",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/valuable-ways-to-increase-your-click-to-conversion-rate",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-to-ensure-the-resourcefulness-of-your-e-newsletters",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-to-ensure-the-resourcefulness-of-your-e-newsletters",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/determining-whether-there-is-a-correlation-between-inbound-links-and-social-share-analyzing-new-correlation-data",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/determining-whether-there-is-a-correlation-between-inbound-links-and-social-share-analyzing-new-correlation-data",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/tips-for-reviving-a-diminishing-social-media-presence",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/tips-for-reviving-a-diminishing-social-media-presence",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-to-build-your-business-with-quality-ebooks",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-to-build-your-business-with-quality-ebooks",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-successful-is-your-websites-content",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-successful-is-your-websites-content",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/5-nifty-tactics-to-measure-seo-achievements-through-google-analytics",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/5-nifty-tactics-to-measure-seo-achievements-through-google-analytics",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/re-marketing-strategies-that-make-a-difference",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/re-marketing-strategies-that-make-a-difference",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/be-the-result-that-google-wants-to-rank",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/be-the-result-that-google-wants-to-rank",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/sem-which-type-is-right-for-you",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/sem-which-type-is-right-for-you",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/4-simple-reasons-your-website-isnt-converting-visitors-into-sales",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/4-simple-reasons-your-website-isnt-converting-visitors-into-sales",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/generating-more-leads-for-your-business-than-you-thought-possible",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/generating-more-leads-for-your-business-than-you-thought-possible",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/social-media-metrics-your-comprehensive-guide-to-stepping-up-the-way-you-analyze-metrics",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/social-media-metrics-your-comprehensive-guide-to-stepping-up-the-way-you-analyze-metrics",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/keyword-repetition-how-much-is-too-much",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/keyword-repetition-how-much-is-too-much",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/8-simple-tips-for-improving-your-email-click-through-rate",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/8-simple-tips-for-improving-your-email-click-through-rate",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-exactly-does-seo-work",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-exactly-does-seo-work",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/will-ecommerce-benefit-your-business",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/will-ecommerce-benefit-your-business",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/pronto-renovations",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/pronto-renovations",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-newsworthy-are-your-email-newsletters",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-newsworthy-are-your-email-newsletters",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/email-marketing-redefined",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/email-marketing-redefined",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/rebranding-in-the-eye-of-social-media",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/rebranding-in-the-eye-of-social-media",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/is-seo-here-to-stay",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/is-seo-here-to-stay",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/building-an-email-marketing-strategy",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/building-an-email-marketing-strategy",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/are-blogs-an-article-of-the-past",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/are-blogs-an-article-of-the-past",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/five-seo-myths-debunked",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/five-seo-myths-debunked",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/using-linkedin-pulse-to-reach-a-wider-audience",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/using-linkedin-pulse-to-reach-a-wider-audience",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/analytics-ignorance-is-not-bliss",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/analytics-ignorance-is-not-bliss",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/which-social-media-accounts-matter-to-my-business",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/which-social-media-accounts-matter-to-my-business",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/how-facebook-retargeting-drives-more-conversion-on-your-landing-page",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/how-facebook-retargeting-drives-more-conversion-on-your-landing-page",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/blog/essential-components-of-a-content-strategy",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://www.prontomarketing.com/blog/essential-components-of-a-content-strategy",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://www.prontomarketing.com/case-studies/healthcare-provider-web-design/",
+      "title": "Case Study: Web Design for a Healthcare Provider in Baltimore, MD",
+      "discoveredByMap": false,
+      "requestedReviewUrl": "https://www.prontomarketing.com/case-studies/healthcare-provider-web-design/",
+      "normalizedUrl": "https://www.prontomarketing.com/case-studies/healthcare-provider-web-design",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.prontomarketing.com/case-studies/mis-solutions-website-blueprint-for-msp-success/",
+      "title": "MIS Solutions Website Transformation: A Blueprint for MSP Success",
+      "discoveredByMap": false,
+      "requestedReviewUrl": "https://www.prontomarketing.com/case-studies/mis-solutions-website-blueprint-for-msp-success/",
+      "normalizedUrl": "https://www.prontomarketing.com/case-studies/mis-solutions-website-blueprint-for-msp-success",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    }
+  ]
+}
+

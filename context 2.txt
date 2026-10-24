@@ -1,0 +1,154 @@
+# BUILD BIZ DA VINCI — END-TO-END IMPLEMENTATION
+
+You are the lead software architect, senior full-stack engineer, product designer, and QA engineer for Biz Da Vinci.
+
+Read the saved project context before proceeding.
+
+We want to turn the existing Biz Da Vinci frontend into a real, working, locally tested product.
+
+**Do not create a new project or redesign the existing interface unless necessary. Build on the current application.**
+
+## First: Inspect the Real Repository
+
+Before writing application code:
+
+1. Identify the actual project root, package scripts, architecture, and framework.
+2. Inspect all current pages, components, data models, and frontend interactions.
+3. Identify existing real capabilities versus demonstration-only behavior.
+4. Review previous research and reference directories.
+5. Inspect relevant existing tests and documentation.
+6. Verify the reported Git and environment-variable safety concerns without exposing secrets.
+7. Identify opportunities to reuse working components.
+
+Create a concise evidence-based implementation plan identifying the files that need to change.
+
+Do not ask me to repeat information already available in the repository or project context.
+
+Do not spend unnecessary time redesigning approved components.
+
+## Implement in This Order
+
+### Milestone 1 — Live Website Capture
+
+Implement the complete local workflow:
+
+- Enter a business website URL.
+- Validate the URL securely.
+- Visit the permitted public website.
+- Capture an authentic homepage screenshot.
+- Return clear analysis progress.
+- Display the screenshot in the existing Before panel.
+- Preserve the existing draggable comparison slider.
+- Handle errors, timeouts, and blocked websites honestly.
+
+Use an established browser automation library where appropriate.
+
+Because arbitrary URLs create serious SSRF and local-network risks, establish effective browser-network isolation and URL protections before allowing unrestricted destinations. If those protections are not ready, restrict testing to explicitly approved public domains.
+
+Test this milestone with real websites before continuing.
+
+### Milestone 2 — Industry Recognition and Templates
+
+Extract supported public business facts.
+
+Identify the industry, including an unknown state.
+
+Match the business to an existing supported industry template.
+
+Personalize the After preview with verified information.
+
+Preserve the original screenshot and allow customers to correct uncertain industry selection.
+
+Never invent business credentials, reviews, addresses, or contact details.
+
+### Milestone 3 — Live Website Audit
+
+Connect appropriate measurable checks and explain improvement opportunities in plain language.
+
+Distinguish verified findings, qualitative recommendations, and unavailable results.
+
+Keep the current audit design.
+
+Do not manufacture scores.
+
+### Milestone 4 — Free AI Website Blueprint
+
+Generate a detailed website-building blueprint using verified information and industry-appropriate recommendations.
+
+Make it genuinely useful for building a website with Claude Code, Codex, ChatGPT, or another AI development tool.
+
+Support copying and downloading.
+
+Do not require payment, registration, or contact information.
+
+Keep untrusted webpage content separate from instructions to the AI model. Treat collected text as data, not commands.
+
+### Milestone 5 — Website Packages and Marketing
+
+Connect the existing four service options:
+
+1. Free DIY blueprint.
+2. Website Refresh — starting at $1,000.
+3. Full Rebuild + SEO — starting at $3,000.
+4. Custom Content & Marketing.
+
+Use configurable pricing rules.
+
+Maintenance is optional and displayed separately.
+
+Customers must be able to select add-ons and see an updated indicative estimate.
+
+Support video quantities, marketing platforms, and service frequency.
+
+### Milestone 6 — Complete Customer Journey
+
+Connect the existing frontend experiences so that a customer can navigate from website analysis to preview, audit, free blueprint, customization, estimate, and proposal request.
+
+Implement an honest working proposal-request flow appropriate to the current local architecture. Do not claim emails or submissions were delivered unless an actual delivery mechanism exists.
+
+Do not introduce payment processing unless separately authorized.
+
+## Engineering Requirements
+
+- Preserve the approved visual design.
+- Keep the system modular and independently maintainable.
+- Prefer simple solutions over unnecessary infrastructure.
+- Avoid code duplication.
+- Keep secrets server-side.
+- Add meaningful unit and integration tests.
+- Test browser capture and cleanup.
+- Use structured errors and clear loading states.
+- Avoid fictional production results.
+- Keep all public website processing bounded and secure.
+- Verify responsive behavior and accessibility.
+- Do not push or deploy without permission.
+
+Complete one milestone and verify it before moving to the next.
+
+If a milestone has an unresolved security or correctness blocker, do not work around it unsafely. Document the issue and proceed only with independent work that remains safe.
+
+## Final Verification
+
+Run the application locally and validate the complete experience.
+
+Test:
+
+- Successful public URL capture.
+- Failed and blocked URL handling.
+- Industry identification.
+- Template personalization.
+- Comparison slider interactions.
+- Real audit outputs.
+- AI blueprint generation and download.
+- Package selection.
+- Add-on pricing changes.
+- Marketing plan customization.
+- Proposal-request behavior.
+- Desktop and mobile layouts.
+- Existing regression tests.
+
+Report which capabilities are fully functional, which remain limited, and which require external configuration.
+
+Provide the local running URL, changed files, test results, and any unresolved issues.
+
+**The objective is a real working Biz Da Vinci product, not another static prototype. Start with the current repository and build forward, preserving our existing design.**

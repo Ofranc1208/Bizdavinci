@@ -1,0 +1,222 @@
+[
+  {
+    "path": "/",
+    "status": 200
+  },
+  {
+    "path": "/audit",
+    "status": 200
+  },
+  {
+    "path": "/preview",
+    "status": 200
+  },
+  {
+    "path": "/quote",
+    "status": 200
+  },
+  {
+    "path": "/pricing",
+    "status": 200
+  },
+  {
+    "path": "/examples",
+    "status": 200
+  },
+  {
+    "path": "/about",
+    "status": 200
+  },
+  {
+    "path": "/contact",
+    "status": 200
+  },
+  {
+    "path": "/how-it-works",
+    "status": 200
+  },
+  {
+    "path": "/industries",
+    "status": 200
+  },
+  {
+    "path": "/what-we-do",
+    "status": 200
+  },
+  {
+    "path": "/faq",
+    "status": 200
+  },
+  {
+    "path": "/industries/dentists",
+    "status": 200
+  },
+  {
+    "path": "/industries/medical-spas",
+    "status": 200
+  },
+  {
+    "path": "/industries/plumbers",
+    "status": 200
+  },
+  {
+    "path": "/industries/hvac",
+    "status": 200
+  },
+  {
+    "path": "/industries/electricians",
+    "status": 200
+  },
+  {
+    "path": "/industries/salons",
+    "status": 200
+  },
+  {
+    "path": "/industries/barbers",
+    "status": 200
+  },
+  {
+    "path": "/industries/auto-repair",
+    "status": 200
+  },
+  {
+    "path": "/industries/restaurants",
+    "status": 200
+  },
+  {
+    "path": "/industries/cafes",
+    "status": 200
+  },
+  {
+    "path": "/industries/chiropractors",
+    "status": 200
+  },
+  {
+    "path": "/industries/medical-practices",
+    "status": 200
+  },
+  {
+    "path": "/industries/accountants",
+    "status": 200
+  },
+  {
+    "path": "/industries/pet-services",
+    "status": 200
+  },
+  {
+    "path": "/industries/retailers",
+    "status": 200
+  },
+  {
+    "path": "/industries/computer-repair",
+    "status": 200
+  },
+  {
+    "path": "/industries/tailors",
+    "status": 200
+  },
+  {
+    "path": "/industries/landscapers",
+    "status": 200
+  },
+  {
+    "path": "/industries/financial-advisors",
+    "status": 200
+  },
+  {
+    "path": "/industries/cpa-firms",
+    "status": 200
+  },
+  {
+    "path": "/industries/bookkeepers",
+    "status": 200
+  },
+  {
+    "path": "/industries/tax-preparers",
+    "status": 200
+  },
+  {
+    "path": "/industries/insurance-agencies",
+    "status": 200
+  },
+  {
+    "path": "/industries/mortgage-brokers",
+    "status": 200
+  },
+  {
+    "path": "/industries/attorneys",
+    "status": 200
+  },
+  {
+    "path": "/industries/real-estate-agents",
+    "status": 200
+  },
+  {
+    "path": "/industries/property-managers",
+    "status": 200
+  },
+  {
+    "path": "/industries/architects",
+    "status": 200
+  },
+  {
+    "path": "/industries/interior-designers",
+    "status": 200
+  },
+  {
+    "path": "/industries/roofers",
+    "status": 200
+  },
+  {
+    "path": "/industries/cleaning-services",
+    "status": 200
+  },
+  {
+    "path": "/industries/pest-control",
+    "status": 200
+  },
+  {
+    "path": "/industries/physical-therapists",
+    "status": 200
+  },
+  {
+    "path": "/industries/therapists",
+    "status": 200
+  },
+  {
+    "path": "/industries/veterinarians",
+    "status": 200
+  },
+  {
+    "path": "/industries/tutors",
+    "status": 200
+  },
+  {
+    "path": "/what-we-do?service=refresh",
+    "status": 200
+  },
+  {
+    "path": "/what-we-do?service=rebuild",
+    "status": 200
+  },
+  {
+    "path": "/what-we-do?service=marketing",
+    "status": 200
+  },
+  {
+    "path": "/what-we-do?service=unknown",
+    "status": 200
+  },
+  {
+    "path": "/quote?package=essential",
+    "status": 200
+  },
+  {
+    "path": "/quote?package=rebuild",
+    "status": 200
+  },
+  {
+    "path": "/not-a-route",
+    "status": 404
+  }
+]

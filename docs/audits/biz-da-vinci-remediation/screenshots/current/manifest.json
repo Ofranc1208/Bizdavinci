@@ -1,0 +1,8 @@
+{
+  "origin": "http://127.0.0.1:57730",
+  "routes": 48,
+  "httpOk": true,
+  "screenshotCount": 0,
+  "screenshotError": "Cannot find package 'playwright' imported from C:\\Users\\ofran\\Desktop\\New Bizdavinci\\frontend\\scripts\\capture-routes.mjs",
+  "dest": "C:\\Users\\ofran\\Desktop\\New Bizdavinci\\docs\\audits\\biz-da-vinci-remediation\\screenshots\\current"
+}

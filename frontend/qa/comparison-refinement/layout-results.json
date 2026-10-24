@@ -1,0 +1,362 @@
+[
+  {
+    "width": 1440,
+    "route": "/",
+    "result": {
+      "width": 1430,
+      "scrollWidth": 1430,
+      "height": 4097,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 1440,
+    "route": "/audit",
+    "result": {
+      "width": 1430,
+      "scrollWidth": 1430,
+      "height": 2239,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 1440,
+    "route": "/preview",
+    "result": {
+      "width": 1430,
+      "scrollWidth": 1430,
+      "height": 2102,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 1440,
+    "route": "/quote",
+    "result": {
+      "width": 1430,
+      "scrollWidth": 1430,
+      "height": 2136,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 1440,
+    "route": "/pricing",
+    "result": {
+      "width": 1430,
+      "scrollWidth": 1430,
+      "height": 2108,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 1440,
+    "route": "/examples",
+    "result": {
+      "width": 1430,
+      "scrollWidth": 1430,
+      "height": 3640,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 1440,
+    "route": "/about",
+    "result": {
+      "width": 1430,
+      "scrollWidth": 1430,
+      "height": 2093,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 1440,
+    "route": "/contact",
+    "result": {
+      "width": 1430,
+      "scrollWidth": 1430,
+      "height": 1528,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 1440,
+    "route": "/how-it-works",
+    "result": {
+      "width": 1430,
+      "scrollWidth": 1430,
+      "height": 1557,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 1024,
+    "route": "/",
+    "result": {
+      "width": 1014,
+      "scrollWidth": 1014,
+      "height": 3822,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 1024,
+    "route": "/audit",
+    "result": {
+      "width": 1014,
+      "scrollWidth": 1014,
+      "height": 2353,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 1024,
+    "route": "/preview",
+    "result": {
+      "width": 1014,
+      "scrollWidth": 1014,
+      "height": 1907,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 1024,
+    "route": "/quote",
+    "result": {
+      "width": 1014,
+      "scrollWidth": 1014,
+      "height": 2121,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 1024,
+    "route": "/pricing",
+    "result": {
+      "width": 1014,
+      "scrollWidth": 1014,
+      "height": 2178,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 1024,
+    "route": "/examples",
+    "result": {
+      "width": 1014,
+      "scrollWidth": 1014,
+      "height": 3295,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 1024,
+    "route": "/about",
+    "result": {
+      "width": 1014,
+      "scrollWidth": 1014,
+      "height": 2012,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 1024,
+    "route": "/contact",
+    "result": {
+      "width": 1014,
+      "scrollWidth": 1014,
+      "height": 1567,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 1024,
+    "route": "/how-it-works",
+    "result": {
+      "width": 1014,
+      "scrollWidth": 1014,
+      "height": 1557,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 390,
+    "route": "/",
+    "result": {
+      "width": 380,
+      "scrollWidth": 380,
+      "height": 5887,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 390,
+    "route": "/audit",
+    "result": {
+      "width": 380,
+      "scrollWidth": 380,
+      "height": 4320,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 390,
+    "route": "/preview",
+    "result": {
+      "width": 380,
+      "scrollWidth": 380,
+      "height": 2394,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 390,
+    "route": "/quote",
+    "result": {
+      "width": 380,
+      "scrollWidth": 380,
+      "height": 3850,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 390,
+    "route": "/pricing",
+    "result": {
+      "width": 380,
+      "scrollWidth": 380,
+      "height": 4079,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 390,
+    "route": "/examples",
+    "result": {
+      "width": 380,
+      "scrollWidth": 380,
+      "height": 4289,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 390,
+    "route": "/about",
+    "result": {
+      "width": 380,
+      "scrollWidth": 380,
+      "height": 2945,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 390,
+    "route": "/contact",
+    "result": {
+      "width": 380,
+      "scrollWidth": 380,
+      "height": 2514,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 390,
+    "route": "/how-it-works",
+    "result": {
+      "width": 380,
+      "scrollWidth": 380,
+      "height": 2013,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 360,
+    "route": "/",
+    "result": {
+      "width": 350,
+      "scrollWidth": 350,
+      "height": 5854,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 360,
+    "route": "/audit",
+    "result": {
+      "width": 350,
+      "scrollWidth": 350,
+      "height": 4473,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 360,
+    "route": "/preview",
+    "result": {
+      "width": 350,
+      "scrollWidth": 350,
+      "height": 2421,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 360,
+    "route": "/quote",
+    "result": {
+      "width": 350,
+      "scrollWidth": 350,
+      "height": 3957,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 360,
+    "route": "/pricing",
+    "result": {
+      "width": 350,
+      "scrollWidth": 350,
+      "height": 4175,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 360,
+    "route": "/examples",
+    "result": {
+      "width": 350,
+      "scrollWidth": 350,
+      "height": 4323,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 360,
+    "route": "/about",
+    "result": {
+      "width": 350,
+      "scrollWidth": 350,
+      "height": 2933,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 360,
+    "route": "/contact",
+    "result": {
+      "width": 350,
+      "scrollWidth": 350,
+      "height": 2514,
+      "brokenImages": []
+    }
+  },
+  {
+    "width": 360,
+    "route": "/how-it-works",
+    "result": {
+      "width": 350,
+      "scrollWidth": 350,
+      "height": 2103,
+      "brokenImages": []
+    }
+  }
+]

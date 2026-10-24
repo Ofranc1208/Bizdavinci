@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-23",
+  "site": "siteflip",
+  "mapResultCount": 3,
+  "mapLimit": 300,
+  "mapReachedLimit": false,
+  "exhaustiveDomainInventory": false,
+  "selectedPagesReviewed": 4,
+  "normalizedInventoryCount": 4,
+  "records": [
+    {
+      "url": "https://www.siteflip.app/terms",
+      "title": "Terms of Service - SiteFlip",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.siteflip.app/terms",
+      "normalizedUrl": "https://www.siteflip.app/terms",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.siteflip.app/legal",
+      "title": "Legal Notice - SiteFlip",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.siteflip.app/legal",
+      "normalizedUrl": "https://www.siteflip.app/legal",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.siteflip.app/privacy",
+      "title": "Privacy Policy - SiteFlip",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://www.siteflip.app/privacy",
+      "normalizedUrl": "https://www.siteflip.app/privacy",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://www.siteflip.app/",
+      "title": "SiteFlip — We Already Redesigned Your Website",
+      "discoveredByMap": false,
+      "requestedReviewUrl": "https://www.siteflip.app/",
+      "normalizedUrl": "https://www.siteflip.app",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    }
+  ]
+}
+

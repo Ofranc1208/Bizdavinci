@@ -1,0 +1,92 @@
+[
+  {
+    "frames": [
+      {
+        "height": 461.328125,
+        "hidden": false,
+        "name": "before",
+        "width": 692
+      },
+      {
+        "height": 0,
+        "hidden": true,
+        "name": "after",
+        "width": 0
+      }
+    ],
+    "value": "0",
+    "view": "before"
+  },
+  {
+    "frames": [
+      {
+        "height": 461.328125,
+        "hidden": false,
+        "name": "before",
+        "width": 692
+      },
+      {
+        "height": 461.328125,
+        "hidden": false,
+        "name": "after",
+        "width": 692
+      }
+    ],
+    "value": "25",
+    "view": "reveal"
+  },
+  {
+    "frames": [
+      {
+        "height": 461.328125,
+        "hidden": false,
+        "name": "before",
+        "width": 692
+      },
+      {
+        "height": 461.328125,
+        "hidden": false,
+        "name": "after",
+        "width": 692
+      }
+    ],
+    "value": "50",
+    "view": "reveal"
+  },
+  {
+    "frames": [
+      {
+        "height": 461.328125,
+        "hidden": false,
+        "name": "before",
+        "width": 692
+      },
+      {
+        "height": 461.328125,
+        "hidden": false,
+        "name": "after",
+        "width": 692
+      }
+    ],
+    "value": "75",
+    "view": "reveal"
+  },
+  {
+    "frames": [
+      {
+        "height": 0,
+        "hidden": true,
+        "name": "before",
+        "width": 0
+      },
+      {
+        "height": 461.328125,
+        "hidden": false,
+        "name": "after",
+        "width": 692
+      }
+    ],
+    "value": "100",
+    "view": "after"
+  }
+]

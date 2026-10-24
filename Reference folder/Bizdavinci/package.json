@@ -1,0 +1,11 @@
+{
+  "name": "bizdavinci",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix myprofile-site",
+    "build": "npm run build --prefix myprofile-site",
+    "start": "npm run start --prefix myprofile-site",
+    "lint": "npm run lint --prefix myprofile-site",
+    "typecheck": "npm run typecheck --prefix myprofile-site"
+  }
+}

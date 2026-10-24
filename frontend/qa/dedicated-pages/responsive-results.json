@@ -1,0 +1,962 @@
+[
+  {
+    "route": "/",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 4515,
+    "brokenImages": []
+  },
+  {
+    "route": "/audit",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 2317,
+    "brokenImages": []
+  },
+  {
+    "route": "/preview",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 2155,
+    "brokenImages": []
+  },
+  {
+    "route": "/quote",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 2347,
+    "brokenImages": []
+  },
+  {
+    "route": "/pricing",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 2137,
+    "brokenImages": []
+  },
+  {
+    "route": "/examples",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 3672,
+    "brokenImages": []
+  },
+  {
+    "route": "/about",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 2246,
+    "brokenImages": []
+  },
+  {
+    "route": "/contact",
+    "requestedWidth": 1440,
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 1600,
+    "brokenImages": []
+  },
+  {
+    "route": "/how-it-works",
+    "requestedWidth": 1440,
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 1600,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 2528,
+    "brokenImages": []
+  },
+  {
+    "route": "/what-we-do",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 2806,
+    "brokenImages": []
+  },
+  {
+    "route": "/faq",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 2221,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/dentists",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 3804,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/medical-spas",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 3804,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/plumbers",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 3804,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/hvac",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 3804,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/electricians",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 3804,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/salons",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 3826,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/barbers",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 3804,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/auto-repair",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 3804,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/restaurants",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 3804,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/cafes",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 3804,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/chiropractors",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 3804,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/medical-practices",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 3804,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/accountants",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 3804,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/pet-services",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 3826,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/retailers",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 3804,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/computer-repair",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 3804,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/tailors",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 3826,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/landscapers",
+    "requestedWidth": 1440,
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 3804,
+    "brokenImages": []
+  },
+  {
+    "route": "/",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 4246,
+    "brokenImages": []
+  },
+  {
+    "route": "/audit",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 2435,
+    "brokenImages": []
+  },
+  {
+    "route": "/preview",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 1960,
+    "brokenImages": []
+  },
+  {
+    "route": "/quote",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 2540,
+    "brokenImages": []
+  },
+  {
+    "route": "/pricing",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 2207,
+    "brokenImages": []
+  },
+  {
+    "route": "/examples",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 3327,
+    "brokenImages": []
+  },
+  {
+    "route": "/about",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 2164,
+    "brokenImages": []
+  },
+  {
+    "route": "/contact",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 1611,
+    "brokenImages": []
+  },
+  {
+    "route": "/how-it-works",
+    "requestedWidth": 1024,
+    "width": 1024,
+    "scrollWidth": 1024,
+    "height": 1600,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 2453,
+    "brokenImages": []
+  },
+  {
+    "route": "/what-we-do",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 2808,
+    "brokenImages": []
+  },
+  {
+    "route": "/faq",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 2173,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/dentists",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 3869,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/medical-spas",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 3898,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/plumbers",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 3894,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/hvac",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 3866,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/electricians",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 3894,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/salons",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 3841,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/barbers",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 3819,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/auto-repair",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 3819,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/restaurants",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 3844,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/cafes",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 3844,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/chiropractors",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 3819,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/medical-practices",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 3819,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/accountants",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 3844,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/pet-services",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 3844,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/retailers",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 3819,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/computer-repair",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 3844,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/tailors",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 3844,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/landscapers",
+    "requestedWidth": 1024,
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 3894,
+    "brokenImages": []
+  },
+  {
+    "route": "/",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 6504,
+    "brokenImages": []
+  },
+  {
+    "route": "/audit",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4447,
+    "brokenImages": []
+  },
+  {
+    "route": "/preview",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 2469,
+    "brokenImages": []
+  },
+  {
+    "route": "/quote",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4533,
+    "brokenImages": []
+  },
+  {
+    "route": "/pricing",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4137,
+    "brokenImages": []
+  },
+  {
+    "route": "/examples",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4360,
+    "brokenImages": []
+  },
+  {
+    "route": "/about",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 3253,
+    "brokenImages": []
+  },
+  {
+    "route": "/contact",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 2616,
+    "brokenImages": []
+  },
+  {
+    "route": "/how-it-works",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 2071,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 3703,
+    "brokenImages": []
+  },
+  {
+    "route": "/what-we-do",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 3992,
+    "brokenImages": []
+  },
+  {
+    "route": "/faq",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 2607,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/dentists",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4789,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/medical-spas",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4861,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/plumbers",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4838,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/hvac",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4811,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/electricians",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4789,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/salons",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4811,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/barbers",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4786,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/auto-repair",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4861,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/restaurants",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4861,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/cafes",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4812,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/chiropractors",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4863,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/medical-practices",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4861,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/accountants",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4863,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/pet-services",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4910,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/retailers",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4861,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/computer-repair",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4861,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/tailors",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4811,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/landscapers",
+    "requestedWidth": 390,
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4935,
+    "brokenImages": []
+  },
+  {
+    "route": "/",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 6417,
+    "brokenImages": []
+  },
+  {
+    "route": "/audit",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4583,
+    "brokenImages": []
+  },
+  {
+    "route": "/preview",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 2496,
+    "brokenImages": []
+  },
+  {
+    "route": "/quote",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4605,
+    "brokenImages": []
+  },
+  {
+    "route": "/pricing",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4234,
+    "brokenImages": []
+  },
+  {
+    "route": "/examples",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4401,
+    "brokenImages": []
+  },
+  {
+    "route": "/about",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 3241,
+    "brokenImages": []
+  },
+  {
+    "route": "/contact",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 2616,
+    "brokenImages": []
+  },
+  {
+    "route": "/how-it-works",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 2161,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 3703,
+    "brokenImages": []
+  },
+  {
+    "route": "/what-we-do",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4095,
+    "brokenImages": []
+  },
+  {
+    "route": "/faq",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 2675,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/dentists",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4852,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/medical-spas",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4940,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/plumbers",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4894,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/hvac",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4817,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/electricians",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4817,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/salons",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4825,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/barbers",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4817,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/auto-repair",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4869,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/restaurants",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4842,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/cafes",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4792,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/chiropractors",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4844,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/medical-practices",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4867,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/accountants",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4844,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/pet-services",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4940,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/retailers",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4881,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/computer-repair",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4856,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/tailors",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4850,
+    "brokenImages": []
+  },
+  {
+    "route": "/industries/landscapers",
+    "requestedWidth": 360,
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4916,
+    "brokenImages": []
+  }
+]

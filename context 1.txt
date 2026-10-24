@@ -1,0 +1,393 @@
+# BIZ DA VINCI — MASTER PROJECT CONTEXT
+
+## 1. Product Identity
+
+**Name:** Biz Da Vinci
+
+**Business:** Website modernization, AI-assisted website analysis, digital design, and marketing services.
+
+**Primary audience:** Small and established businesses with outdated websites, especially local service providers and professional businesses.
+
+**Positioning:** A premium technology-enabled agency offering useful website insights, modern redesign previews, free DIY resources, and transparent professional services.
+
+**Philosophy:** Give customers genuine value before selling anything. Make the process simple, accessible, flexible, and trustworthy.
+
+A customer should never feel pressured to hire Biz Da Vinci.
+
+## 2. The Approved Visual Direction
+
+We have already created and refined the Biz Da Vinci frontend.
+
+The visual direction includes:
+
+- Warm white and light-neutral backgrounds.
+- Dark navy and charcoal typography.
+- Strong blue or indigo accents.
+- Premium, spacious layouts.
+- Rounded cards and subtle borders.
+- Restrained shadows.
+- Beautiful industry-specific website examples.
+- Minimal, intuitive user interactions.
+- A consistent design system across pages.
+
+The homepage's main headline is:
+
+**See what your website could become.**
+
+The signature experience is an interactive before-and-after website comparison.
+
+The existing design is approved in principle. Do not replace it with a generic SaaS dashboard or rebuild it without a specific reason.
+
+Use the current repository, local application, and supplied screenshots as the primary visual references.
+
+## 3. Existing Technical Findings
+
+Previous repository investigation identified these locations:
+
+- `frontend/components.js`: contains `comparison()` and `demoSite()`, which render the existing comparison UI.
+- `frontend/data.js`: contains demonstration industry data.
+- `frontend/app.js`: contains the homepage form handler and initial URL normalization.
+- `frontend/model.js`: manages frontend state.
+- `frontend/serve.mjs`: was previously identified as a static local server without API support.
+- `frontend/professions.js`: contains profession classifications or slugs.
+- `frontend/README.md`: frontend documentation.
+
+These paths and capabilities came from a previous investigation. Verify them against the current repository before relying on them, since implementation may have changed.
+
+The existing frontend has used a local development address, `http://127.0.0.1:4173`.
+
+The previous environment investigation found Node.js 24 and locally installed Chrome and Edge browsers.
+
+An older reference project contained examples of:
+
+- Safe HTML fetching patterns.
+- Website metadata extraction.
+- Business-fact extraction.
+- AI-assisted copy preparation.
+
+Review that reference code for useful patterns, but do not import it blindly.
+
+Prior research also covered these agencies:
+
+- SiteFlip
+- 180 Sites
+- SiteHike
+- Pronto Marketing
+- WebFX
+
+Use any existing competitor research as reference material for customer journeys and service presentation, not for copying visual designs.
+
+### Repository safety
+
+A previous investigation reported that the Git repository might be rooted in the user's home directory and that a root `.env.local` contains an OpenAI API key.
+
+Verify those conditions before changing repository or environment configuration.
+
+Never print, expose, commit, or send secrets to the frontend. Check for accidental tracking or historical exposure and report any required remediation.
+
+## 4. The Website Analysis Experience
+
+The system begins with a website URL.
+
+The backend should safely inspect permitted public websites, extract useful business information, and capture a real screenshot.
+
+Information to collect when available:
+
+- Final resolved website URL.
+- Business name.
+- Industry or profession.
+- Logo.
+- Main services.
+- Website navigation.
+- Homepage title and description.
+- Relevant page headings.
+- Public contact information.
+- Basic page inventory.
+- Primary calls to action.
+- Limited branding information.
+
+The system must distinguish verified information from assumptions.
+
+Do not invent phone numbers, customer testimonials, licensing, reviews, certifications, locations, or business achievements.
+
+If industry classification is uncertain, support an unknown result or allow customers to correct the category.
+
+### Website screenshot
+
+The Before side of the comparison must display an actual captured screenshot.
+
+Do not rely on third-party iframe embedding.
+
+Use safe browser automation with appropriate resource limits, timeouts, URL restrictions, and honest failure handling.
+
+### Website redesign
+
+The After side should use curated industry-specific templates, not a completely new AI-generated design every time.
+
+Potential industries include:
+
+- Plumbing and HVAC.
+- Medical spas.
+- Dental practices.
+- Healthcare.
+- Home services.
+- Professional services.
+
+Match businesses to available templates and personalize them using verified information.
+
+Keep template selection, business content extraction, and frontend rendering separate.
+
+## 5. Website Auditing
+
+The audit should eventually explain what can be improved in straightforward language.
+
+Possible categories:
+
+- Mobile experience.
+- Website performance.
+- Navigation clarity.
+- Basic technical SEO.
+- Content structure.
+- Accessibility.
+- Contact and conversion opportunities.
+- Trust and business information presentation.
+
+Only show measurements that have actually been performed.
+
+Use reliable sources and tools for measurable findings.
+
+Do not present subjective design opinions as objective measurements.
+
+Support incomplete analyses and clearly identify unavailable information.
+
+## 6. The Free AI Website Blueprint
+
+This is one of our most important product differentiators.
+
+**The AI website blueprint must be genuinely free.**
+
+A visitor should receive a useful, detailed prompt that helps them build or improve their website independently.
+
+It should be usable with Claude Code, ChatGPT, Codex, or other capable coding tools.
+
+The blueprint should include:
+
+- Website improvement summary.
+- Existing business information, marked as verified or uncertain.
+- Proposed website structure.
+- Recommended pages.
+- Industry-relevant layout guidance.
+- Design direction.
+- Suggested homepage content structure.
+- SEO recommendations.
+- Mobile and accessibility considerations.
+- Recommended website features.
+- Technical implementation guidance.
+- A detailed, copyable AI development prompt.
+
+Provide an easy way to copy and download the blueprint.
+
+Do not require an email address, account, consultation, or purchase to access it.
+
+Be transparent about any unavailable information or analysis limitations.
+
+Customers own their downloaded brief and can take it to another provider or build the website themselves.
+
+## 7. Business Services and Pricing
+
+The approved service structure has four paths.
+
+### Option 1 — Build It Yourself
+
+**Price:** Free.
+
+Provides the downloadable AI website blueprint and prompt.
+
+This is a permanent first-class option, not a limited trial.
+
+### Option 2 — Website Refresh
+
+**Starting project price:** $1,000.
+
+**Illustrative optional maintenance:** $75/month.
+
+Typical scope:
+
+- Refresh key existing pages.
+- Modernize presentation.
+- Improve messaging and calls to action.
+- Improve mobile layout.
+- Apply appropriate basic SEO improvements.
+
+Final scope and price must be confirmed before any commitment.
+
+### Option 3 — Full Rebuild + SEO
+
+**Starting project price:** $3,000.
+
+**Illustrative optional maintenance:** $150/month.
+
+Potential scope:
+
+- Full design and rebuild.
+- Improved site architecture.
+- Technical SEO foundation.
+- Mobile optimization.
+- Appropriate page migration and redirects.
+- Contact and lead-generation features.
+- Additional integrations where agreed.
+
+Never promise that a $3,000 rebuild covers unlimited pages or custom software.
+
+### Option 4 — Content & Marketing
+
+**Price:** Configurable, based on selected services.
+
+Possible services:
+
+- Short-form video production.
+- Instagram Reels.
+- TikTok videos.
+- YouTube Shorts.
+- Captions and hashtags.
+- Content planning.
+- Blog creation.
+- Social media publishing.
+- Optional marketing integrations.
+
+Customers should be able to select video quantities, platforms, production frequency, and additional services.
+
+Distinguish original video production from adapting and distributing one video across multiple platforms.
+
+Do not invent a price until the rate configuration exists.
+
+Marketing can be purchased independently of a website project.
+
+## 8. Interactive Quote Builder
+
+Customers should be able to customize their service package.
+
+Potential add-ons include:
+
+- Additional website pages.
+- Copywriting.
+- Local SEO.
+- Booking systems.
+- CRM integrations.
+- Forms and lead management.
+- Reviews integration.
+- Blog or resource hub.
+- Additional performance work.
+- Content and video marketing.
+- Maintenance.
+
+The experience should work like a simple product configurator.
+
+Users select features and see transparent illustrative prices, scope, and estimated timelines.
+
+Pricing must come from centralized, configurable business rules rather than hardcoded values distributed throughout the UI.
+
+A quote must clearly distinguish:
+
+- One-time project cost.
+- Optional recurring maintenance.
+- One-time marketing production.
+- Recurring marketing services.
+- Third-party subscription costs when applicable.
+
+Initial estimates are not legally binding proposals. Final scope, costs, and timelines require review.
+
+## 9. Customer Journey
+
+The intended journey is:
+
+**Enter URL → Capture Website → Identify Business → Show Redesign Preview → Review Audit → Choose Next Step**
+
+At that point, the visitor can:
+
+**A.** Download the free AI website-building blueprint.
+
+**B.** Customize a website refresh.
+
+**C.** Configure a full rebuild.
+
+**D.** Create a content and marketing package.
+
+Customers choosing professional services can then review an estimate and prepare a proposal request.
+
+Keep this journey cohesive, with minimal unnecessary forms.
+
+## 10. Architecture Principles
+
+Build a self-contained, independently maintainable Biz Da Vinci product.
+
+Prefer clear module boundaries for:
+
+- Website capture.
+- Safe URL processing.
+- HTML and business-content extraction.
+- Industry classification.
+- Template selection.
+- Redesign preview preparation.
+- Website auditing.
+- AI blueprint generation.
+- Pricing rules.
+- Proposal preparation.
+
+Independent modules do not necessarily require independently deployed microservices.
+
+Reuse the existing framework wherever practical.
+
+Add infrastructure only when needed.
+
+Security requirements include preventing server-side request forgery, private-network access, browser sandbox escapes, unsafe redirects, credential exposure, abusive crawling, and resource exhaustion.
+
+Browser capture must be isolated from sensitive local resources.
+
+Respect public website access restrictions and do not attempt to bypass access controls.
+
+Do not expose API keys to browsers.
+
+Minimize retention of captured data and business information.
+
+Do not introduce a production database or cloud service without evaluating whether it is necessary.
+
+## 11. Development Process
+
+The intended development approach is:
+
+1. Inspect the existing repository.
+2. Inventory real versus demonstration capabilities.
+3. Review the approved frontend.
+4. Define a minimal architecture.
+5. Implement in independently testable stages.
+6. Add automated tests.
+7. Test with actual public websites.
+8. Validate industry identification.
+9. Verify the redesign preview.
+10. Implement and test the free blueprint.
+11. Connect quotation and service configuration.
+12. Review the entire customer journey.
+
+Work locally first.
+
+Do not deploy, push code, purchase services, or change production infrastructure without authorization.
+
+## 12. Product Success Criteria
+
+Biz Da Vinci succeeds when:
+
+- A real public URL can be submitted safely.
+- A real screenshot appears in the Before panel.
+- The appropriate available template appears in the After panel.
+- The existing comparison slider remains functional.
+- Verified business information personalizes the preview.
+- Failures and uncertainty are communicated honestly.
+- Customers receive useful, evidence-based analysis.
+- The free AI blueprint can be downloaded without registration.
+- Customers can explore service options and update indicative estimates.
+- A clear proposal-request experience is available.
+- The site feels fast, modern, polished, and trustworthy.
+- The system is testable, maintainable, and secure.
+
+**Our most important principle: Build a genuinely useful product first. Monetization must never come at the expense of user trust or freedom.**

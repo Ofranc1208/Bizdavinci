@@ -1,0 +1,290 @@
+[
+  {
+    "requestedWidth": 1440,
+    "route": "/",
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 4486,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 1440,
+    "route": "/audit",
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 2288,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 1440,
+    "route": "/preview",
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 2126,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 1440,
+    "route": "/quote",
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 2318,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 1440,
+    "route": "/pricing",
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 2108,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 1440,
+    "route": "/examples",
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 3643,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 1440,
+    "route": "/about",
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 2093,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 1440,
+    "route": "/how-it-works",
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 1557,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 1440,
+    "route": "/contact",
+    "width": 1430,
+    "scrollWidth": 1430,
+    "height": 1543,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 1024,
+    "route": "/",
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 4217,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 1024,
+    "route": "/audit",
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 2406,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 1024,
+    "route": "/preview",
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 1931,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 1024,
+    "route": "/quote",
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 2511,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 1024,
+    "route": "/pricing",
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 2178,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 1024,
+    "route": "/examples",
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 3298,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 1024,
+    "route": "/about",
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 2012,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 1024,
+    "route": "/how-it-works",
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 1557,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 1024,
+    "route": "/contact",
+    "width": 1014,
+    "scrollWidth": 1014,
+    "height": 1582,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 390,
+    "route": "/",
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 6446,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 390,
+    "route": "/audit",
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4389,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 390,
+    "route": "/preview",
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 2411,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 390,
+    "route": "/quote",
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4475,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 390,
+    "route": "/pricing",
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4079,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 390,
+    "route": "/examples",
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 4302,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 390,
+    "route": "/about",
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 2945,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 390,
+    "route": "/how-it-works",
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 2013,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 390,
+    "route": "/contact",
+    "width": 380,
+    "scrollWidth": 380,
+    "height": 2558,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 360,
+    "route": "/",
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 6359,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 360,
+    "route": "/audit",
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4525,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 360,
+    "route": "/preview",
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 2438,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 360,
+    "route": "/quote",
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4546,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 360,
+    "route": "/pricing",
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4175,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 360,
+    "route": "/examples",
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 4343,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 360,
+    "route": "/about",
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 2933,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 360,
+    "route": "/how-it-works",
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 2103,
+    "brokenImages": []
+  },
+  {
+    "requestedWidth": 360,
+    "route": "/contact",
+    "width": 350,
+    "scrollWidth": 350,
+    "height": 2558,
+    "brokenImages": []
+  }
+]

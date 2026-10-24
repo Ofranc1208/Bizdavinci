@@ -1,0 +1,18 @@
+[
+  {
+    "target": "refresh",
+    "active": "refresh"
+  },
+  {
+    "target": "rebuild",
+    "active": "rebuild"
+  },
+  {
+    "target": "marketing",
+    "active": "marketing"
+  },
+  {
+    "target": "prompt",
+    "active": "prompt"
+  }
+]

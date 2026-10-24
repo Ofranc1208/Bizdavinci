@@ -1,0 +1,38 @@
+
+> biz-da-vinci-frontend@0.1.0 test
+> node tests/run.mjs
+
+✔ configured scope totals, extra time and separate monthly care (15.226ms)
+✔ restored state rejects unknown options and prevents duplicate charges (4.4988ms)
+✔ URL input normalizes context without retaining query data or credentials (3.5681ms)
+✔ proposal carries selections, uses real line breaks and never claims submission (130.5007ms)
+✔ user context is escaped before rendering as HTML (1.8866ms)
+✔ profession registry resolves unique routes, related pages, assets and design families (60.5169ms)
+✔ profession context survives restoration, selects its family and reaches the proposal (65.8146ms)
+✔ editorial page links resolve to registered routes and profession query contexts (41.0314ms)
+✔ profession discovery matches aliases, separate words and accents (2.6773ms)
+✔ profession registry passes schema validation (47.5928ms)
+✔ every profession route is registered (1.1831ms)
+✔ preview server guards traversal, private files, methods and host (1176.2612ms)
+✔ malicious concept fields are escaped inside demoSite markup (1.6767ms)
+✔ profession page escapes injected headline, FAQ and services (1.1481ms)
+✔ proposal draft keeps contact payload as plain text, not HTML (2.2145ms)
+✔ escapeHTML covers quote and apostrophe contexts (0.6024ms)
+✔ illustrative package, add-on and care ranges remain frozen (1.9359ms)
+✔ care is billed separately and does not change one-time totals (0.9144ms)
+✔ normalizeUrl is syntax-only and still rejects non-http schemes (2.1271ms)
+✔ documented private and metadata hosts are accepted as syntax, not fetched (7.8498ms)
+✔ generated inventory lists every registered profession slug (2.8632ms)
+✔ browser pages do not import Node-only validate-content (3.3125ms)
+✔ PAGE_MAP profession table includes every current slug (7.6163ms)
+✔ service paths resolve without changing the calculator rate table (19.5471ms)
+✔ free prompt uses chosen industry and truthful website context (7.4833ms)
+✔ service notes stay escaped on screen and plain text in local briefs (1.5706ms)
+ℹ tests 26
+ℹ suites 0
+ℹ pass 26
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1683.0792

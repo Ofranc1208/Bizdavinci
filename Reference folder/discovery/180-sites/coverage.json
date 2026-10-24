@@ -1,0 +1,1864 @@
+{
+  "date": "2026-10-23",
+  "site": "180-sites",
+  "mapResultCount": 229,
+  "mapLimit": 300,
+  "mapReachedLimit": false,
+  "exhaustiveDomainInventory": false,
+  "selectedPagesReviewed": 19,
+  "normalizedInventoryCount": 229,
+  "records": [
+    {
+      "url": "https://180sites.com/pricing",
+      "title": "Pricing - 180 Sites",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://180sites.com/pricing",
+      "normalizedUrl": "https://180sites.com/pricing",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://180sites.com",
+      "title": "180 Sites - We Build Awesome Websites That Make You Money...",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://180sites.com/",
+      "normalizedUrl": "https://180sites.com",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://180sites.com/junk-removal-web-design",
+      "title": "Junk Removal Web Design By 180 Sites",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/junk-removal-web-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/category/carpet-cleaning",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/category/carpet-cleaning",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/category/christmas-light-installation",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/category/christmas-light-installation",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/category/contractors",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/category/contractors",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/category/email-marketing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/category/email-marketing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/category/house-cleaning",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/category/house-cleaning",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/category/landscaping",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/category/landscaping",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/category/marketing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/category/marketing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/category/marketing-agency",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/category/marketing-agency",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/category/medical",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/category/medical",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/category/paid-advertising",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/category/paid-advertising",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/category/pet-waste-removal",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/category/pet-waste-removal",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/category/pressure-washing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/category/pressure-washing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/category/roofing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/category/roofing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/category/seo",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/category/seo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/category/social-media",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/category/social-media",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/category/web-design",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/category/web-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/how-to-plan-your-marketing-budget",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/how-to-plan-your-marketing-budget",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/running-a-black-friday-event-on-social-media-and-how-to-do-it-right",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/running-a-black-friday-event-on-social-media-and-how-to-do-it-right",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/the-top-15-marketing-tips-for-home-service-companies",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/the-top-15-marketing-tips-for-home-service-companies",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/5-social-media-tactics-to-grow-your-service-business-for-beginners",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/5-social-media-tactics-to-grow-your-service-business-for-beginners",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/avoid-these-common-web-design-mistakes-and-double-your-leads",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/avoid-these-common-web-design-mistakes-and-double-your-leads",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/how-to-set-up-google-ads-the-ultimate-checklist",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/how-to-set-up-google-ads-the-ultimate-checklist",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/how-to-get-social-media-branding-right-for-your-business",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/how-to-get-social-media-branding-right-for-your-business",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/how-important-is-website-maintenance",
+      "title": "How Important Is Website Maintenance?",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/how-important-is-website-maintenance",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/how-to-properly-track-leads-on-your-website-and-grow-your-business",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/how-to-properly-track-leads-on-your-website-and-grow-your-business",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/5-easy-ways-to-boost-google-rankings-even-for-beginners",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/5-easy-ways-to-boost-google-rankings-even-for-beginners",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/launching-a-new-website-can-destroy-your-seo-learn-to-preserve-seo-during-a-website-launch",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/launching-a-new-website-can-destroy-your-seo-learn-to-preserve-seo-during-a-website-launch",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/5-stupid-simple-ways-to-get-more-leads-online-even-if-youre-a-noob",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/5-stupid-simple-ways-to-get-more-leads-online-even-if-youre-a-noob",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/how-to-outrank-your-competitors-in-google-maps",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/how-to-outrank-your-competitors-in-google-maps",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/how-to-grow-your-home-service-business-with-content-marketing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/how-to-grow-your-home-service-business-with-content-marketing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/15-sources-to-drive-traffic-to-your-website",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/15-sources-to-drive-traffic-to-your-website",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/10-ways-to-improve-your-websites-conversion-rate",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/10-ways-to-improve-your-websites-conversion-rate",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/3-things-to-look-at-when-auditing-your-site",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://180sites.com/3-things-to-look-at-when-auditing-your-site",
+      "normalizedUrl": "https://180sites.com/3-things-to-look-at-when-auditing-your-site",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://180sites.com/7-reasons-why-a-website-is-important-for-your-business",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/7-reasons-why-a-website-is-important-for-your-business",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/5-ways-to-declutter-your-site",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/5-ways-to-declutter-your-site",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/how-reviews-help-your-business",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/how-reviews-help-your-business",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/how-to-write-a-killer-about-page",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/how-to-write-a-killer-about-page",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/why-you-should-hire-a-professional-web-design-company",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/why-you-should-hire-a-professional-web-design-company",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/5-tips-for-an-effective-call-to-action",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/5-tips-for-an-effective-call-to-action",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/7-reasons-your-site-is-slow-and-how-to-fix-it",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/7-reasons-your-site-is-slow-and-how-to-fix-it",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/choosing-a-reliable-hosting-platform",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/choosing-a-reliable-hosting-platform",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/diy-website-care-5-things-you-should-double-check",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/diy-website-care-5-things-you-should-double-check",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/7-ways-a-website-improves-your-business",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/7-ways-a-website-improves-your-business",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/facebook-ads-101-for-home-service-companies",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/facebook-ads-101-for-home-service-companies",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio",
+      "title": "Portfolio Archive",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://180sites.com/portfolio",
+      "normalizedUrl": "https://180sites.com/portfolio",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://180sites.com/portfolio/get-lit-savannah",
+      "title": "Get Lit Savannah",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/get-lit-savannah",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/accurate-janitorial",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/accurate-janitorial",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/call-green-pro",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/call-green-pro",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/asubra-cleaning-service",
+      "title": "Web Design For Asubra Cleaning Service",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/asubra-cleaning-service",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/mop-it-like-its-hot",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/mop-it-like-its-hot",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/cleaning-services-of-phoenix",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/cleaning-services-of-phoenix",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/express-christmas-lighting",
+      "title": "Express Christmas Lighting",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/express-christmas-lighting",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/holiday-lights-phoenix",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/holiday-lights-phoenix",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/kansas-city-christmas-lights",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/kansas-city-christmas-lights",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/pool-and-patio-works",
+      "title": "Pool And Patio Works",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/pool-and-patio-works",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/titan-property-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/titan-property-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/pewaukee-cleaning",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/pewaukee-cleaning",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/maid-in-nash",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/maid-in-nash",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/pristine-cleaning",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/pristine-cleaning",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/bidslot-program",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/bidslot-program",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/svoma-design-in-dentistry",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://180sites.com/portfolio/svoma-design-in-dentistry",
+      "normalizedUrl": "https://180sites.com/portfolio/svoma-design-in-dentistry",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://180sites.com/portfolio/561-carpet-tile",
+      "title": "561 Carpet & Tile",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/561-carpet-tile",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/the-loyal-patient",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/the-loyal-patient",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/dan-hendersons-athletic-fitness-center",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/dan-hendersons-athletic-fitness-center",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/treasure-coast-grill-cleaning",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/treasure-coast-grill-cleaning",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/sh-renovations",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/sh-renovations",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/motivemaker-productions",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/motivemaker-productions",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/greenleaf-real-estate",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/greenleaf-real-estate",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/prestige-pro-photo",
+      "title": "Web Design For Prestige Pro Photo",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/prestige-pro-photo",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/coastal-property-maintenance",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/coastal-property-maintenance",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/hands-n-paws",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/hands-n-paws",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/mister-glass",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/mister-glass",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/elite-accounting-solutions-inc",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/elite-accounting-solutions-inc",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/bend-fit-yoga",
+      "title": "Bend Fit Yoga",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/bend-fit-yoga",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/clean-bins-indy",
+      "title": "Clean Bins Indy",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/clean-bins-indy",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/pro-line-garage-doors",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/pro-line-garage-doors",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/splash-fiber-glass-pools",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/splash-fiber-glass-pools",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/service-moxie",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/service-moxie",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/nashville-carpet-cleaning",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/nashville-carpet-cleaning",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/wagener-handyman-services",
+      "title": "Wagener Handyman Services",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/wagener-handyman-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/voss-landscape-lighting",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/voss-landscape-lighting",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/kingdom-detailing-solutions",
+      "title": "Kingdom Detailing Solutions",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://180sites.com/portfolio/kingdom-detailing-solutions",
+      "normalizedUrl": "https://180sites.com/portfolio/kingdom-detailing-solutions",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://180sites.com/portfolio/refined-rituals",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/refined-rituals",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/harder-power-company",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/harder-power-company",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/m-r-crabb-moving-and-storage",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/m-r-crabb-moving-and-storage",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/creating-new-hope-senior-living-advisors",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/creating-new-hope-senior-living-advisors",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/checkmat-murrieta-exclusive",
+      "title": "Checkmat Murrieta Exclusive",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/checkmat-murrieta-exclusive",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/north-alabama-gutters-exteriors",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/north-alabama-gutters-exteriors",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/hammer-and-forge",
+      "title": "Hammer and Forge",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/hammer-and-forge",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/concrete-fixers-llc",
+      "title": "Concrete Fixers, LLC",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/concrete-fixers-llc",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/lv-distributors",
+      "title": "L&V Distributors",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/lv-distributors",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/bright-factory",
+      "title": "Bright Factory",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/bright-factory",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/big-foam",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/big-foam",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/tiver-transportation",
+      "title": "Tiver Transportation",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/tiver-transportation",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/candy-wraps-orlando",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/candy-wraps-orlando",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/the-crafted-stache-barbershop",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://180sites.com/portfolio/the-crafted-stache-barbershop",
+      "normalizedUrl": "https://180sites.com/portfolio/the-crafted-stache-barbershop",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://180sites.com/portfolio/santa-banana",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/santa-banana",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/patriot-illumination",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/patriot-illumination",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/azalea-outdoor-lighting",
+      "title": "Azalea Outdoor Lighting",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/azalea-outdoor-lighting",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/lumos-outdoor-lighting",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/lumos-outdoor-lighting",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/the-dream-clean-team",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/the-dream-clean-team",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/blitzen-lighting",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/blitzen-lighting",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/brightwire-electrical-solutions",
+      "title": "BrightWire Electrical Solutions",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/brightwire-electrical-solutions",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/haro-electric",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/haro-electric",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/eccl-solutions",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/eccl-solutions",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/direct-electric-company",
+      "title": "Web Design For Direct Electric Company",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/direct-electric-company",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/cool-naturally-quiet-cool-installer",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/cool-naturally-quiet-cool-installer",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/boost-roofing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/boost-roofing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/rufus-roofing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/rufus-roofing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/maryland-exterior-contracting",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/maryland-exterior-contracting",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/shield-roofing",
+      "title": "Shield Roofing",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/shield-roofing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/slam-dunking-junk-az",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/slam-dunking-junk-az",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/absolute-junk-removal",
+      "title": "Absolute Junk Removal",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/absolute-junk-removal",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/doctor-junk-removal",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/doctor-junk-removal",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/junk-bros",
+      "title": "Junk Bros.",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/junk-bros",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/christmas-lighting-new-york",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/christmas-lighting-new-york",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/first-choice-soft-wash",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/first-choice-soft-wash",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/kahuna-window-cleaning",
+      "title": "Web Design For Kahuna Window Cleaning",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/kahuna-window-cleaning",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/professional-power-washing",
+      "title": "Web Design For Professional Power Washing",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/professional-power-washing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/expert-power-wash",
+      "title": "Web Design For Expert Power Wash",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/expert-power-wash",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/heffernans-home-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/heffernans-home-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/premier-pressure-clean",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/premier-pressure-clean",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/integrity-window-care",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/integrity-window-care",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/platinum-one-soft-wash",
+      "title": "Web Design For Platinum One Soft Wash",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/platinum-one-soft-wash",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/tampa-bay-window-cleaners",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/tampa-bay-window-cleaners",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/south-mountain-window-cleaning",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/south-mountain-window-cleaning",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/thee-window-ninjas",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/thee-window-ninjas",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/curb-appeal-greenville",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/curb-appeal-greenville",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/veteran-exteriors",
+      "title": "Web Design For Veteran Exteriors",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/veteran-exteriors",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/megah-pressure-washing",
+      "title": "Web Design For Megah Pressure Washing",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/megah-pressure-washing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/the-clear-factor",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/the-clear-factor",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/trt-pressure-washing-window-cleaning",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/trt-pressure-washing-window-cleaning",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/spray-clean-tn",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/spray-clean-tn",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/love-my-clean-windows",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/love-my-clean-windows",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/vegas-window-cleaning",
+      "title": "Vegas View Window Cleaning",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/vegas-window-cleaning",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/squeaky-clean",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/squeaky-clean",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/nw-softwash",
+      "title": "NW Softwash",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/nw-softwash",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/xterior-xperts-power-washing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/xterior-xperts-power-washing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/professor-pressure",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/professor-pressure",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/pure-cleaning-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/pure-cleaning-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/martz-pressure-washing",
+      "title": "Martz Pressure Washing",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/martz-pressure-washing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/knight-window-washing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/knight-window-washing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/ct-power-washing-roof-cleaning",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/ct-power-washing-roof-cleaning",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/revive-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/revive-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/4-seasons-softwash",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/4-seasons-softwash",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/mt-baker-window-cleaning-co",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/mt-baker-window-cleaning-co",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/super-clean-windows",
+      "title": "Web Design For Super Clean Windows",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/super-clean-windows",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/jeff-likes-clean-windows-gutters",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/jeff-likes-clean-windows-gutters",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/small-town-creative",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/small-town-creative",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/creatively-innovative",
+      "title": "Creatively Innovative",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/creatively-innovative",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/home-service-business-coach",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/home-service-business-coach",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/brand-ready-designs",
+      "title": "Brand Ready Designs",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/brand-ready-designs",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/doodie-soldiers",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/doodie-soldiers",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/smart-scoops",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/smart-scoops",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/evolv-digital",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/evolv-digital",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/fastlane-wraps",
+      "title": "Fastlane Wraps",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/fastlane-wraps",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/royal-wrapz",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/royal-wrapz",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/diamondshield-epoxy-floor-coatings",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/diamondshield-epoxy-floor-coatings",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/my-garage-floor-guys",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/my-garage-floor-guys",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/proshield-surface-coatings",
+      "title": "Proshield Surface Coatings",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/proshield-surface-coatings",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/tagg-concrete-coatings",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/tagg-concrete-coatings",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/dart-outdoor-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/dart-outdoor-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/leger-landscapes",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/leger-landscapes",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/midshore-solutions-llc",
+      "title": "Web Design Midshore Solutions LLC",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/midshore-solutions-llc",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/valkyrie-wraps",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/valkyrie-wraps",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/cjs-window-cleaning-services",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/cjs-window-cleaning-services",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/volt-vikings",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/volt-vikings",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/highlevel-garage-doors",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/highlevel-garage-doors",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/firefly-effects-outdoor-lighting",
+      "title": "FireFly Effects Outdoor Lighting",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/firefly-effects-outdoor-lighting",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/triangle-home-detailing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/triangle-home-detailing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/pin-parrot",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/pin-parrot",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/pinkys-pro-wash",
+      "title": "Pinky's Pro Wash",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/pinkys-pro-wash",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/steves-modern-roofing",
+      "title": "Steves Modern Roofing",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/steves-modern-roofing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/florida-pressure-washing-pros",
+      "title": "Florida Pressure Washing Pros",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/florida-pressure-washing-pros",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/delta-dump-junk-removal",
+      "title": "Delta Dump Junk Removal",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/delta-dump-junk-removal",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/matt-the-driveway-guy",
+      "title": "Matt The Driveway Guy",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/matt-the-driveway-guy",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/green-light-graphics",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/green-light-graphics",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/portfolio/lawn-guys-co",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/portfolio/lawn-guys-co",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/author/ryan-golgosky",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/author/ryan-golgosky",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/about",
+      "title": "About",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://180sites.com/about",
+      "normalizedUrl": "https://180sites.com/about",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://180sites.com/carpet-cleaning-web-design",
+      "title": "Carpet Cleaning Web Design By 180 Sites",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/carpet-cleaning-web-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/car-wraps-web-design",
+      "title": "Car Wraps Web Design By 180 Sites",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://180sites.com/car-wraps-web-design",
+      "normalizedUrl": "https://180sites.com/car-wraps-web-design",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://180sites.com/audit",
+      "title": "Audit",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://180sites.com/audit",
+      "normalizedUrl": "https://180sites.com/audit",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://180sites.com/careers",
+      "title": "Careers",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/careers",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/affiliate",
+      "title": "Make Extra Money With Little Effort",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/affiliate",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/blog",
+      "title": "180 Sites Blog",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/blog",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/christmas-light-installation-web-design",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/christmas-light-installation-web-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/dental-web-design",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://180sites.com/dental-web-design",
+      "normalizedUrl": "https://180sites.com/dental-web-design",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://180sites.com/electrician-web-design",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/electrician-web-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/glass-repair-web-design",
+      "title": "Glass Repair Web Design",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/glass-repair-web-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/guest-posting",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/guest-posting",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/get-started",
+      "title": "Get Started - 180 Sites - Sign Up Affordable Web Design",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://180sites.com/get-started",
+      "normalizedUrl": "https://180sites.com/get-started",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://180sites.com/garage-floor-coatings-web-design",
+      "title": "Garage Floor Coatings Web Design By 180 Sites",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/garage-floor-coatings-web-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/home-service-web-design",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/home-service-web-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/janitorial-web-design",
+      "title": "Janitorial Web Design",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/janitorial-web-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/house-cleaning-web-design",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://180sites.com/house-cleaning-web-design",
+      "normalizedUrl": "https://180sites.com/house-cleaning-web-design",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://180sites.com/how-it-works",
+      "title": "How It Works",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://180sites.com/how-it-works",
+      "normalizedUrl": "https://180sites.com/how-it-works",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://180sites.com/negative-feedback",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/negative-feedback",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/martial-arts-web-design",
+      "title": "Martial Arts Web Design",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/martial-arts-web-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/landscaping-web-design",
+      "title": "Landscaping Web Design By 180 Sites",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/landscaping-web-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/pressure-washing-ebook-thank-you",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/pressure-washing-ebook-thank-you",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/pressure-washing-ebook-lp",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/pressure-washing-ebook-lp",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/pet-waste-removal-web-design",
+      "title": "Pet Waste Removal Web Design By 180 Sites",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/pet-waste-removal-web-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/pressure-washing-web-design",
+      "title": "Get The Best Pressure Washing Web Design By 180 Sites",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/pressure-washing-web-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/painting-contractor-web-design",
+      "title": "Painting Contractor Web Design",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/painting-contractor-web-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/pricing-table-tooltip",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/pricing-table-tooltip",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/privacy-policy",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/privacy-policy",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/request-to-terminate-contract",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/request-to-terminate-contract",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/team",
+      "title": "Team",
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/team",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/roofing-web-design",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/roofing-web-design",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/video-reviews",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/video-reviews",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/upgrades/pop-up-lead-capture",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/upgrades/pop-up-lead-capture",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/terms-and-conditions",
+      "title": "Terms and Conditions",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://180sites.com/terms-and-conditions",
+      "normalizedUrl": "https://180sites.com/terms-and-conditions",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://180sites.com/upgrades/sms",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/upgrades/sms",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/upgrades/email-newsletter-connection",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/upgrades/email-newsletter-connection",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/upgrades/content-writing",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/upgrades/content-writing",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/upgrades/addon-pages",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/upgrades/addon-pages",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/upgrades",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://180sites.com/upgrades",
+      "normalizedUrl": "https://180sites.com/upgrades",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://180sites.com/upgrades/crm",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/upgrades/crm",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/website-management",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://180sites.com/website-management",
+      "normalizedUrl": "https://180sites.com/website-management",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://180sites.com/home-test",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/home-test",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/faqs",
+      "title": null,
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://180sites.com/faqs",
+      "normalizedUrl": "https://180sites.com/faqs",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://180sites.com/blog-new-layout",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/blog-new-layout",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/reviews",
+      "title": "Reviews",
+      "discoveredByMap": true,
+      "requestedReviewUrl": "https://180sites.com/reviews",
+      "normalizedUrl": "https://180sites.com/reviews",
+      "status": "content_reviewed",
+      "scope": "See PAGE_REVIEW.md; not an exhaustive UI or embedded-content test."
+    },
+    {
+      "url": "https://180sites.com/upgrades/review-display",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/upgrades/review-display",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    },
+    {
+      "url": "https://180sites.com/customer-support-rating",
+      "title": null,
+      "discoveredByMap": true,
+      "normalizedUrl": "https://180sites.com/customer-support-rating",
+      "status": "not_reviewed",
+      "scope": "Outside the selected buying-journey review; retained to make incomplete coverage explicit."
+    }
+  ]
+}
+
